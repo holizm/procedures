@@ -1,0 +1,15 @@
+{
+    "proceduresActive": "Active",
+    "proceduresAssignedPerson": "Assigned person",
+    "proceduresCode": "Code",
+    "proceduresDescription": "Description",
+    "proceduresDueDate": "Due date",
+    "proceduresOwner": "Owner",
+    "proceduresProcedure": "Procedure",
+    "proceduresProcedures": "Procedures",
+    "proceduresProcedureVersion": "Procedure version",
+    "proceduresRuns": "Procedure runs",
+    "proceduresScope": "Scope",
+    "proceduresState": "State",
+    "proceduresSubject": "Subject"
+}

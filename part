@@ -1,0 +1,59 @@
+procedure
+    title
+    code
+    owner optional
+    scope optional
+    active yesNo optional
+    description optional
+    unique code
+procedureVersion
+    procedure
+    versionNumber integer
+    effectiveDate
+    expiryDate optional
+    state
+    changeSummary optional
+    unique procedure versionNumber
+procedureStep
+    procedureVersion
+    title
+    order integer
+    instructions optional
+    required yesNo optional
+    evidenceRequired yesNo optional
+    signOffRequired yesNo optional
+    unique procedureVersion order
+procedureAssignment
+    procedure
+    assignee
+    startDate optional
+    endDate optional
+procedureRun
+    procedureVersion
+    assignedPerson optional
+    subject optional
+    dueDate optional
+    startedDate optional
+    completedDate optional
+    state
+    description optional
+procedureStepRun
+    procedureRun
+    procedureStep
+    completed yesNo optional
+    completedBy optional
+    completedDate optional
+    notes optional
+    unique procedureRun procedureStep
+procedureEvidence
+    procedureStepRun
+    evidence
+    submittedBy
+    submittedDate
+    description optional
+procedureSignOff
+    procedureRun
+    signedBy
+    signedDate
+    accepted yesNo
+    notes optional

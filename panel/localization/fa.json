@@ -1,0 +1,15 @@
+{
+    "proceduresActive": "فعال",
+    "proceduresAssignedPerson": "مسئول اجرا",
+    "proceduresCode": "کد",
+    "proceduresDescription": "توضیحات",
+    "proceduresDueDate": "مهلت انجام",
+    "proceduresOwner": "مالک فرایند",
+    "proceduresProcedure": "روش اجرایی",
+    "proceduresProcedures": "روش‌های اجرایی",
+    "proceduresProcedureVersion": "نسخه روش اجرایی",
+    "proceduresRuns": "اجراهای روش اجرایی",
+    "proceduresScope": "دامنه",
+    "proceduresState": "مرحله",
+    "proceduresSubject": "موضوع"
+}
