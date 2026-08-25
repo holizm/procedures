@@ -26,7 +26,7 @@ const inputs = <>
         property='active'
     />
     <LongText
-        placeholder='proceduresDescription'
+        placeholder='coreDescription'
         property='description'
     />
 </>

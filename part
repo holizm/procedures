@@ -43,7 +43,7 @@ procedureStepRun
     completed yesNo optional
     completedBy optional
     completedDate optional
-    notes optional
+    description optional
     unique procedureRun procedureStep
 procedureEvidence
     procedureStepRun
@@ -56,4 +56,4 @@ procedureSignOff
     signedBy
     signedDate
     accepted yesNo
-    notes optional
+    description optional

@@ -24,7 +24,7 @@ const inputs = <>
         property='dueDate'
     />
     <LongText
-        placeholder='proceduresDescription'
+        placeholder='coreDescription'
         property='description'
     />
 </>
