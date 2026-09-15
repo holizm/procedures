@@ -1,0 +1,23 @@
+{
+    "common": {},
+    "api": {},
+    "panel": {
+        "active": "Active",
+        "assignedPerson": "Assigned person",
+        "code": "Code",
+        "dueDate": "Due date",
+        "owner": "Owner",
+        "procedure": "Procedure",
+        "procedures": "Procedures",
+        "procedureVersion": "Procedure version",
+        "runs": "Procedure runs",
+        "scope": "Scope",
+        "state": "State",
+        "subject": "Subject"
+    },
+    "site": {
+        "completeStep": "Complete step",
+        "signOff": "Sign off",
+        "submitEvidence": "Submit evidence"
+    }
+}
