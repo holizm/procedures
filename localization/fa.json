@@ -6,14 +6,9 @@
         "procedures": "روش‌های اجرایی",
         "procedureVersion": "نسخه روش اجرایی",
         "runs": "اجراهای روش اجرایی",
-        "subject": "موضوع",
-        "completeStep": "تکمیل مرحله",
-        "submitEvidence": "ثبت مستندات"
+        "subject": "موضوع"
     },
     "panel": {
         "assignedPerson": "مسئول اجرا"
-    },
-    "site": {
-        "signOff": "تأیید نهایی"
     }
 }

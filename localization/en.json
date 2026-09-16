@@ -6,14 +6,9 @@
         "procedures": "Procedures",
         "procedureVersion": "Procedure version",
         "runs": "Procedure runs",
-        "subject": "Subject",
-        "completeStep": "Complete step",
-        "submitEvidence": "Submit evidence"
+        "subject": "Subject"
     },
     "panel": {
         "assignedPerson": "Assigned person"
-    },
-    "site": {
-        "signOff": "Sign off"
     }
 }
