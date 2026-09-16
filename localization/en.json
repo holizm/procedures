@@ -1,9 +1,6 @@
 {
-    "common": {},
-    "api": {},
-    "panel": {
+    "common": {
         "active": "Active",
-        "assignedPerson": "Assigned person",
         "code": "Code",
         "dueDate": "Due date",
         "owner": "Owner",
@@ -13,11 +10,14 @@
         "runs": "Procedure runs",
         "scope": "Scope",
         "state": "State",
-        "subject": "Subject"
+        "subject": "Subject",
+        "completeStep": "Complete step",
+        "submitEvidence": "Submit evidence"
+    },
+    "panel": {
+        "assignedPerson": "Assigned person"
     },
     "site": {
-        "completeStep": "Complete step",
-        "signOff": "Sign off",
-        "submitEvidence": "Submit evidence"
+        "signOff": "Sign off"
     }
 }

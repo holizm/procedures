@@ -1,9 +1,6 @@
 {
-    "common": {},
-    "api": {},
-    "panel": {
+    "common": {
         "active": "فعال",
-        "assignedPerson": "مسئول اجرا",
         "code": "کد",
         "dueDate": "مهلت انجام",
         "owner": "مالک فرایند",
@@ -13,11 +10,14 @@
         "runs": "اجراهای روش اجرایی",
         "scope": "دامنه",
         "state": "مرحله",
-        "subject": "موضوع"
+        "subject": "موضوع",
+        "completeStep": "تکمیل مرحله",
+        "submitEvidence": "ثبت مستندات"
+    },
+    "panel": {
+        "assignedPerson": "مسئول اجرا"
     },
     "site": {
-        "completeStep": "تکمیل مرحله",
-        "signOff": "تأیید نهایی",
-        "submitEvidence": "ثبت مستندات"
+        "signOff": "تأیید نهایی"
     }
 }
