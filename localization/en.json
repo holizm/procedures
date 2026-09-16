@@ -1,15 +1,11 @@
 {
     "common": {
-        "active": "Active",
-        "code": "Code",
         "dueDate": "Due date",
         "owner": "Owner",
         "procedure": "Procedure",
         "procedures": "Procedures",
         "procedureVersion": "Procedure version",
         "runs": "Procedure runs",
-        "scope": "Scope",
-        "state": "State",
         "subject": "Subject",
         "completeStep": "Complete step",
         "submitEvidence": "Submit evidence"

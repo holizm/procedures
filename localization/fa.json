@@ -1,15 +1,11 @@
 {
     "common": {
-        "active": "فعال",
-        "code": "کد",
         "dueDate": "مهلت انجام",
         "owner": "مالک فرایند",
         "procedure": "روش اجرایی",
         "procedures": "روش‌های اجرایی",
         "procedureVersion": "نسخه روش اجرایی",
         "runs": "اجراهای روش اجرایی",
-        "scope": "دامنه",
-        "state": "مرحله",
         "subject": "موضوع",
         "completeStep": "تکمیل مرحله",
         "submitEvidence": "ثبت مستندات"
