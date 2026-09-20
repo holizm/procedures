@@ -1,0 +1,14 @@
+{
+    "common": {
+        "dueDate": "የመጨረሻ ቀን",
+        "owner": "ኃላፊ",
+        "procedure": "የአሠራር ሂደት",
+        "procedures": "የአሠራር ሂደቶች",
+        "procedureVersion": "የአሠራር ሂደት ስሪት",
+        "runs": "የአሠራር ሂደት ክንውኖች",
+        "subject": "ርዕሰ ጉዳይ"
+    },
+    "panel": {
+        "assignedPerson": "የተመደበ ሰው"
+    }
+}

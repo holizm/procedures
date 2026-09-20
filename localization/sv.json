@@ -1,0 +1,14 @@
+{
+    "common": {
+        "dueDate": "Förfallodatum",
+        "owner": "Ansvarig",
+        "procedure": "Procedur",
+        "procedures": "Procedurer",
+        "procedureVersion": "Procedurversion",
+        "runs": "Procedurkörningar",
+        "subject": "Ämne"
+    },
+    "panel": {
+        "assignedPerson": "Tilldelad person"
+    }
+}

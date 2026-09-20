@@ -1,0 +1,14 @@
+{
+    "common": {
+        "dueDate": "ਨਿਯਤ ਮਿਤੀ",
+        "owner": "ਜ਼ਿੰਮੇਵਾਰ ਵਿਅਕਤੀ",
+        "procedure": "ਕਾਰਜਵਿਧੀ",
+        "procedures": "ਕਾਰਜਵਿਧੀਆਂ",
+        "procedureVersion": "ਕਾਰਜਵਿਧੀ ਦਾ ਵਰਜਨ",
+        "runs": "ਕਾਰਜਵਿਧੀ ਦੀਆਂ ਕਾਰਵਾਈਆਂ",
+        "subject": "ਵਿਸ਼ਾ"
+    },
+    "panel": {
+        "assignedPerson": "ਨਿਯੁਕਤ ਵਿਅਕਤੀ"
+    }
+}

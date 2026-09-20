@@ -1,0 +1,14 @@
+{
+    "common": {
+        "dueDate": "Tarehe ya mwisho",
+        "owner": "Mhusika mkuu",
+        "procedure": "Utaratibu",
+        "procedures": "Taratibu",
+        "procedureVersion": "Toleo la utaratibu",
+        "runs": "Utekelezaji wa utaratibu",
+        "subject": "Mada"
+    },
+    "panel": {
+        "assignedPerson": "Mtu aliyekabidhiwa"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "common": {
+        "dueDate": "Data de vencimento",
+        "owner": "Responsável",
+        "procedure": "Procedimento",
+        "procedures": "Procedimentos",
+        "procedureVersion": "Versão do procedimento",
+        "runs": "Execuções do procedimento",
+        "subject": "Assunto"
+    },
+    "panel": {
+        "assignedPerson": "Pessoa atribuída"
+    }
+}

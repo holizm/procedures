@@ -1,0 +1,14 @@
+{
+    "common": {
+        "dueDate": "Срок выполнения",
+        "owner": "Ответственный",
+        "procedure": "Процедура",
+        "procedures": "Процедуры",
+        "procedureVersion": "Версия процедуры",
+        "runs": "Выполнения процедуры",
+        "subject": "Тема"
+    },
+    "panel": {
+        "assignedPerson": "Назначенный сотрудник"
+    }
+}

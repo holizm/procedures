@@ -1,0 +1,14 @@
+{
+    "common": {
+        "dueDate": "അവസാന തീയതി",
+        "owner": "ഉത്തരവാദി",
+        "procedure": "നടപടിക്രമം",
+        "procedures": "നടപടിക്രമങ്ങൾ",
+        "procedureVersion": "നടപടിക്രമ പതിപ്പ്",
+        "runs": "നടപടിക്രമ നിർവഹണങ്ങൾ",
+        "subject": "വിഷയം"
+    },
+    "panel": {
+        "assignedPerson": "ചുമതലപ്പെടുത്തിയ വ്യക്തി"
+    }
+}

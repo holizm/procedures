@@ -1,0 +1,14 @@
+{
+    "common": {
+        "dueDate": "Fälligkeitsdatum",
+        "owner": "Verantwortliche Person",
+        "procedure": "Verfahren",
+        "procedures": "Verfahren",
+        "procedureVersion": "Verfahrensversion",
+        "runs": "Verfahrensdurchläufe",
+        "subject": "Betreff"
+    },
+    "panel": {
+        "assignedPerson": "Zugewiesene Person"
+    }
+}

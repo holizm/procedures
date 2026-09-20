@@ -1,0 +1,14 @@
+{
+    "common": {
+        "dueDate": "Takdang petsa",
+        "owner": "Tagapangasiwa",
+        "procedure": "Pamamaraan",
+        "procedures": "Mga pamamaraan",
+        "procedureVersion": "Bersyon ng pamamaraan",
+        "runs": "Mga pagpapatakbo ng pamamaraan",
+        "subject": "Paksa"
+    },
+    "panel": {
+        "assignedPerson": "Itinalagang tao"
+    }
+}

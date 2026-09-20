@@ -1,0 +1,14 @@
+{
+    "common": {
+        "dueDate": "Son tarih",
+        "owner": "Sorumlu",
+        "procedure": "Prosedür",
+        "procedures": "Prosedürler",
+        "procedureVersion": "Prosedür sürümü",
+        "runs": "Prosedür çalıştırmaları",
+        "subject": "Konu"
+    },
+    "panel": {
+        "assignedPerson": "Atanan kişi"
+    }
+}

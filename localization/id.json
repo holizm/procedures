@@ -1,0 +1,14 @@
+{
+    "common": {
+        "dueDate": "Tanggal jatuh tempo",
+        "owner": "Penanggung jawab",
+        "procedure": "Prosedur",
+        "procedures": "Prosedur",
+        "procedureVersion": "Versi prosedur",
+        "runs": "Pelaksanaan prosedur",
+        "subject": "Subjek"
+    },
+    "panel": {
+        "assignedPerson": "Orang yang ditugaskan"
+    }
+}

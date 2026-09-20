@@ -1,0 +1,14 @@
+{
+    "common": {
+        "dueDate": "Data scadentă",
+        "owner": "Responsabil",
+        "procedure": "Procedură",
+        "procedures": "Proceduri",
+        "procedureVersion": "Versiunea procedurii",
+        "runs": "Executări ale procedurii",
+        "subject": "Subiect"
+    },
+    "panel": {
+        "assignedPerson": "Persoană desemnată"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "common": {
+        "dueDate": "Rok izvršenja",
+        "owner": "Odgovorna osoba",
+        "procedure": "Postupak",
+        "procedures": "Postupci",
+        "procedureVersion": "Verzija postupka",
+        "runs": "Izvršavanja postupka",
+        "subject": "Predmet"
+    },
+    "panel": {
+        "assignedPerson": "Dodijeljena osoba"
+    }
+}

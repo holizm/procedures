@@ -1,0 +1,14 @@
+{
+    "common": {
+        "dueDate": "Termin wykonania",
+        "owner": "Osoba odpowiedzialna",
+        "procedure": "Procedura",
+        "procedures": "Procedury",
+        "procedureVersion": "Wersja procedury",
+        "runs": "Wykonania procedury",
+        "subject": "Temat"
+    },
+    "panel": {
+        "assignedPerson": "Przypisana osoba"
+    }
+}

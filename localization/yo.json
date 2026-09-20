@@ -1,0 +1,14 @@
+{
+    "common": {
+        "dueDate": "Ọjọ́ ìparí",
+        "owner": "Olùdájọ́ṣe",
+        "procedure": "Ìlànà iṣẹ́",
+        "procedures": "Àwọn ìlànà iṣẹ́",
+        "procedureVersion": "Ẹ̀yà ìlànà iṣẹ́",
+        "runs": "Àwọn ìṣiṣẹ́ ìlànà",
+        "subject": "Kókó"
+    },
+    "panel": {
+        "assignedPerson": "Ẹni tí a yàn"
+    }
+}

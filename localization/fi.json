@@ -1,0 +1,14 @@
+{
+    "common": {
+        "dueDate": "Määräpäivä",
+        "owner": "Vastuuhenkilö",
+        "procedure": "Menettely",
+        "procedures": "Menettelyt",
+        "procedureVersion": "Menettelyn versio",
+        "runs": "Menettelyn suoritukset",
+        "subject": "Aihe"
+    },
+    "panel": {
+        "assignedPerson": "Määritetty henkilö"
+    }
+}

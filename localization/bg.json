@@ -1,0 +1,14 @@
+{
+    "common": {
+        "dueDate": "Краен срок",
+        "owner": "Отговорник",
+        "procedure": "Процедура",
+        "procedures": "Процедури",
+        "procedureVersion": "Версия на процедурата",
+        "runs": "Изпълнения на процедурата",
+        "subject": "Тема"
+    },
+    "panel": {
+        "assignedPerson": "Назначено лице"
+    }
+}

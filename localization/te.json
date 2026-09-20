@@ -1,0 +1,14 @@
+{
+    "common": {
+        "dueDate": "గడువు తేదీ",
+        "owner": "బాధ్యుడు",
+        "procedure": "విధానం",
+        "procedures": "విధానాలు",
+        "procedureVersion": "విధానం సంస్కరణ",
+        "runs": "విధానం అమలు రికార్డులు",
+        "subject": "విషయం"
+    },
+    "panel": {
+        "assignedPerson": "కేటాయించిన వ్యక్తి"
+    }
+}

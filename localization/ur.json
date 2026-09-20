@@ -1,0 +1,14 @@
+{
+    "common": {
+        "dueDate": "آخری تاریخ",
+        "owner": "ذمہ دار",
+        "procedure": "طریقۂ کار",
+        "procedures": "طریقۂ کار",
+        "procedureVersion": "طریقۂ کار کا ورژن",
+        "runs": "طریقۂ کار کے نفاذ",
+        "subject": "موضوع"
+    },
+    "panel": {
+        "assignedPerson": "مقرر کردہ شخص"
+    }
+}

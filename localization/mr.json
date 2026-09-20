@@ -1,0 +1,14 @@
+{
+    "common": {
+        "dueDate": "देय तारीख",
+        "owner": "जबाबदार व्यक्ती",
+        "procedure": "कार्यपद्धती",
+        "procedures": "कार्यपद्धती",
+        "procedureVersion": "कार्यपद्धती आवृत्ती",
+        "runs": "कार्यपद्धती अंमलबजावणी",
+        "subject": "विषय"
+    },
+    "panel": {
+        "assignedPerson": "नियुक्त व्यक्ती"
+    }
+}

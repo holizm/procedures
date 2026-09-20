@@ -1,0 +1,14 @@
+{
+    "common": {
+        "dueDate": "תאריך יעד",
+        "owner": "אחראי",
+        "procedure": "נוהל",
+        "procedures": "נהלים",
+        "procedureVersion": "גרסת הנוהל",
+        "runs": "הרצות הנוהל",
+        "subject": "נושא"
+    },
+    "panel": {
+        "assignedPerson": "אדם שהוקצה"
+    }
+}

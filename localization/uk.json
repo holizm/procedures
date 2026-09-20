@@ -1,0 +1,14 @@
+{
+    "common": {
+        "dueDate": "Термін виконання",
+        "owner": "Відповідальна особа",
+        "procedure": "Процедура",
+        "procedures": "Процедури",
+        "procedureVersion": "Версія процедури",
+        "runs": "Виконання процедури",
+        "subject": "Тема"
+    },
+    "panel": {
+        "assignedPerson": "Призначена особа"
+    }
+}

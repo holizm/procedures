@@ -1,0 +1,14 @@
+{
+    "common": {
+        "dueDate": "Vervaldatum",
+        "owner": "Verantwoordelijke",
+        "procedure": "Procedure",
+        "procedures": "Procedures",
+        "procedureVersion": "Procedureversie",
+        "runs": "Procedure-uitvoeringen",
+        "subject": "Onderwerp"
+    },
+    "panel": {
+        "assignedPerson": "Toegewezen persoon"
+    }
+}

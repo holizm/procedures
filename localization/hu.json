@@ -1,0 +1,14 @@
+{
+    "common": {
+        "dueDate": "Határidő",
+        "owner": "Felelős",
+        "procedure": "Eljárás",
+        "procedures": "Eljárások",
+        "procedureVersion": "Eljárásverzió",
+        "runs": "Eljárásfuttatások",
+        "subject": "Tárgy"
+    },
+    "panel": {
+        "assignedPerson": "Hozzárendelt személy"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "common": {
+        "dueDate": "截止日期",
+        "owner": "负责人",
+        "procedure": "流程",
+        "procedures": "流程",
+        "procedureVersion": "流程版本",
+        "runs": "流程执行记录",
+        "subject": "主题"
+    },
+    "panel": {
+        "assignedPerson": "被指派人"
+    }
+}

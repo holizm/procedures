@@ -1,0 +1,14 @@
+{
+    "common": {
+        "dueDate": "Date d’échéance",
+        "owner": "Responsable",
+        "procedure": "Procédure",
+        "procedures": "Procédures",
+        "procedureVersion": "Version de la procédure",
+        "runs": "Exécutions de la procédure",
+        "subject": "Objet"
+    },
+    "panel": {
+        "assignedPerson": "Personne assignée"
+    }
+}

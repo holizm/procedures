@@ -1,0 +1,14 @@
+{
+    "common": {
+        "dueDate": "Ημερομηνία λήξης",
+        "owner": "Υπεύθυνος",
+        "procedure": "Διαδικασία",
+        "procedures": "Διαδικασίες",
+        "procedureVersion": "Έκδοση διαδικασίας",
+        "runs": "Εκτελέσεις διαδικασίας",
+        "subject": "Θέμα"
+    },
+    "panel": {
+        "assignedPerson": "Ανατεθειμένο άτομο"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "common": {
+        "dueDate": "Ngày đến hạn",
+        "owner": "Người phụ trách",
+        "procedure": "Quy trình",
+        "procedures": "Quy trình",
+        "procedureVersion": "Phiên bản quy trình",
+        "runs": "Lần thực hiện quy trình",
+        "subject": "Chủ đề"
+    },
+    "panel": {
+        "assignedPerson": "Người được phân công"
+    }
+}

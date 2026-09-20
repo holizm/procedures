@@ -1,0 +1,14 @@
+{
+    "common": {
+        "dueDate": "Ranar ƙarshe",
+        "owner": "Mai alhaki",
+        "procedure": "Tsarin aiki",
+        "procedures": "Tsarukan aiki",
+        "procedureVersion": "Sigar tsarin aiki",
+        "runs": "Gudanarwar tsarin aiki",
+        "subject": "Batun"
+    },
+    "panel": {
+        "assignedPerson": "Mutumin da aka ɗora wa aiki"
+    }
+}

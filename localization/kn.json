@@ -1,0 +1,14 @@
+{
+    "common": {
+        "dueDate": "ಗಡುವಿನ ದಿನಾಂಕ",
+        "owner": "ಜವಾಬ್ದಾರರು",
+        "procedure": "ಕಾರ್ಯವಿಧಾನ",
+        "procedures": "ಕಾರ್ಯವಿಧಾನಗಳು",
+        "procedureVersion": "ಕಾರ್ಯವಿಧಾನದ ಆವೃತ್ತಿ",
+        "runs": "ಕಾರ್ಯವಿಧಾನದ ಚಾಲನೆಗಳು",
+        "subject": "ವಿಷಯ"
+    },
+    "panel": {
+        "assignedPerson": "ನಿಯೋಜಿತ ವ್ಯಕ್ತಿ"
+    }
+}
