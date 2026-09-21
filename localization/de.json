@@ -3,10 +3,9 @@
         "dueDate": "Fälligkeitsdatum",
         "owner": "Verantwortliche Person",
         "procedure": "Verfahren",
-        "procedures": "Verfahren",
         "procedureVersion": "Verfahrensversion",
-        "runs": "Verfahrensdurchläufe",
-        "subject": "Betreff"
+        "procedures": "Verfahren",
+        "runs": "Verfahrensdurchläufe"
     },
     "panel": {
         "assignedPerson": "Zugewiesene Person"

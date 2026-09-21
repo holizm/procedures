@@ -3,10 +3,9 @@
         "dueDate": "תאריך יעד",
         "owner": "אחראי",
         "procedure": "נוהל",
-        "procedures": "נהלים",
         "procedureVersion": "גרסת הנוהל",
-        "runs": "הרצות הנוהל",
-        "subject": "נושא"
+        "procedures": "נהלים",
+        "runs": "הרצות הנוהל"
     },
     "panel": {
         "assignedPerson": "אדם שהוקצה"

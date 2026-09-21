@@ -3,10 +3,9 @@
         "dueDate": "Fecha de vencimiento",
         "owner": "Responsable",
         "procedure": "Procedimiento",
-        "procedures": "Procedimientos",
         "procedureVersion": "Versión del procedimiento",
-        "runs": "Ejecuciones del procedimiento",
-        "subject": "Asunto"
+        "procedures": "Procedimientos",
+        "runs": "Ejecuciones del procedimiento"
     },
     "panel": {
         "assignedPerson": "Persona asignada"

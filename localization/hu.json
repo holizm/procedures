@@ -3,10 +3,9 @@
         "dueDate": "Határidő",
         "owner": "Felelős",
         "procedure": "Eljárás",
-        "procedures": "Eljárások",
         "procedureVersion": "Eljárásverzió",
-        "runs": "Eljárásfuttatások",
-        "subject": "Tárgy"
+        "procedures": "Eljárások",
+        "runs": "Eljárásfuttatások"
     },
     "panel": {
         "assignedPerson": "Hozzárendelt személy"

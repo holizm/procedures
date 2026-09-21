@@ -3,10 +3,9 @@
         "dueDate": "Määräpäivä",
         "owner": "Vastuuhenkilö",
         "procedure": "Menettely",
-        "procedures": "Menettelyt",
         "procedureVersion": "Menettelyn versio",
-        "runs": "Menettelyn suoritukset",
-        "subject": "Aihe"
+        "procedures": "Menettelyt",
+        "runs": "Menettelyn suoritukset"
     },
     "panel": {
         "assignedPerson": "Määritetty henkilö"

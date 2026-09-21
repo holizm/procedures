@@ -7,7 +7,7 @@ import Form from './form'
 const headers = <>
     <th start>proceduresProcedure</th>
     <th>proceduresAssignedPerson</th>
-    <th>proceduresSubject</th>
+    <th>coreSubject</th>
     <th>proceduresDueDate</th>
     <th>stateMachinesState</th>
 </>

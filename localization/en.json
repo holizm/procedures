@@ -3,10 +3,9 @@
         "dueDate": "Due date",
         "owner": "Owner",
         "procedure": "Procedure",
-        "procedures": "Procedures",
         "procedureVersion": "Procedure version",
-        "runs": "Procedure runs",
-        "subject": "Subject"
+        "procedures": "Procedures",
+        "runs": "Procedure runs"
     },
     "panel": {
         "assignedPerson": "Assigned person"

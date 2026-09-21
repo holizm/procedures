@@ -3,10 +3,9 @@
         "dueDate": "تاريخ الاستحقاق",
         "owner": "المالك",
         "procedure": "إجراء",
-        "procedures": "الإجراءات",
         "procedureVersion": "إصدار الإجراء",
-        "runs": "عمليات تنفيذ الإجراء",
-        "subject": "الموضوع"
+        "procedures": "الإجراءات",
+        "runs": "عمليات تنفيذ الإجراء"
     },
     "panel": {
         "assignedPerson": "الشخص المكلّف"

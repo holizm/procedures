@@ -3,10 +3,9 @@
         "dueDate": "नियत तारीख",
         "owner": "स्वामी",
         "procedure": "प्रक्रिया",
-        "procedures": "प्रक्रियाएँ",
         "procedureVersion": "प्रक्रिया संस्करण",
-        "runs": "प्रक्रिया निष्पादन",
-        "subject": "विषय"
+        "procedures": "प्रक्रियाएँ",
+        "runs": "प्रक्रिया निष्पादन"
     },
     "panel": {
         "assignedPerson": "नियुक्त व्यक्ति"

@@ -3,10 +3,9 @@
         "dueDate": "期限",
         "owner": "責任者",
         "procedure": "手順",
-        "procedures": "手順",
         "procedureVersion": "手順のバージョン",
-        "runs": "手順の実行",
-        "subject": "件名"
+        "procedures": "手順",
+        "runs": "手順の実行"
     },
     "panel": {
         "assignedPerson": "担当者"

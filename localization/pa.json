@@ -3,10 +3,9 @@
         "dueDate": "ਨਿਯਤ ਮਿਤੀ",
         "owner": "ਜ਼ਿੰਮੇਵਾਰ ਵਿਅਕਤੀ",
         "procedure": "ਕਾਰਜਵਿਧੀ",
-        "procedures": "ਕਾਰਜਵਿਧੀਆਂ",
         "procedureVersion": "ਕਾਰਜਵਿਧੀ ਦਾ ਵਰਜਨ",
-        "runs": "ਕਾਰਜਵਿਧੀ ਦੀਆਂ ਕਾਰਵਾਈਆਂ",
-        "subject": "ਵਿਸ਼ਾ"
+        "procedures": "ਕਾਰਜਵਿਧੀਆਂ",
+        "runs": "ਕਾਰਜਵਿਧੀ ਦੀਆਂ ਕਾਰਵਾਈਆਂ"
     },
     "panel": {
         "assignedPerson": "ਨਿਯੁਕਤ ਵਿਅਕਤੀ"

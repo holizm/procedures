@@ -16,7 +16,7 @@ const inputs = <>
         property='assignedPerson'
     />
     <Text
-        placeholder='proceduresSubject'
+        placeholder='coreSubject'
         property='subject'
     />
     <DateTime

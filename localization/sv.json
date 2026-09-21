@@ -3,10 +3,9 @@
         "dueDate": "Förfallodatum",
         "owner": "Ansvarig",
         "procedure": "Procedur",
-        "procedures": "Procedurer",
         "procedureVersion": "Procedurversion",
-        "runs": "Procedurkörningar",
-        "subject": "Ämne"
+        "procedures": "Procedurer",
+        "runs": "Procedurkörningar"
     },
     "panel": {
         "assignedPerson": "Tilldelad person"

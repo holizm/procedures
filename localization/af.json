@@ -3,10 +3,9 @@
         "dueDate": "Vervaldatum",
         "owner": "Verantwoordelike",
         "procedure": "Prosedure",
-        "procedures": "Prosedures",
         "procedureVersion": "Prosedureweergawe",
-        "runs": "Prosedure-uitvoerings",
-        "subject": "Onderwerp"
+        "procedures": "Prosedures",
+        "runs": "Prosedure-uitvoerings"
     },
     "panel": {
         "assignedPerson": "Toegewysde persoon"

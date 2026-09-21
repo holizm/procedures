@@ -3,10 +3,9 @@
         "dueDate": "Tarehe ya mwisho",
         "owner": "Mhusika mkuu",
         "procedure": "Utaratibu",
-        "procedures": "Taratibu",
         "procedureVersion": "Toleo la utaratibu",
-        "runs": "Utekelezaji wa utaratibu",
-        "subject": "Mada"
+        "procedures": "Taratibu",
+        "runs": "Utekelezaji wa utaratibu"
     },
     "panel": {
         "assignedPerson": "Mtu aliyekabidhiwa"

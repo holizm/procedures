@@ -3,10 +3,9 @@
         "dueDate": "Termin wykonania",
         "owner": "Osoba odpowiedzialna",
         "procedure": "Procedura",
-        "procedures": "Procedury",
         "procedureVersion": "Wersja procedury",
-        "runs": "Wykonania procedury",
-        "subject": "Temat"
+        "procedures": "Procedury",
+        "runs": "Wykonania procedury"
     },
     "panel": {
         "assignedPerson": "Przypisana osoba"

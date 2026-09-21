@@ -3,10 +3,9 @@
         "dueDate": "مهلت انجام",
         "owner": "مالک فرایند",
         "procedure": "روش اجرایی",
-        "procedures": "روش‌های اجرایی",
         "procedureVersion": "نسخه روش اجرایی",
-        "runs": "اجراهای روش اجرایی",
-        "subject": "موضوع"
+        "procedures": "روش‌های اجرایی",
+        "runs": "اجراهای روش اجرایی"
     },
     "panel": {
         "assignedPerson": "مسئول اجرا"

@@ -3,10 +3,9 @@
         "dueDate": "Рок извршења",
         "owner": "Одговорна особа",
         "procedure": "Поступак",
-        "procedures": "Поступци",
         "procedureVersion": "Верзија поступка",
-        "runs": "Извршавања поступка",
-        "subject": "Предмет"
+        "procedures": "Поступци",
+        "runs": "Извршавања поступка"
     },
     "panel": {
         "assignedPerson": "Додељена особа"

@@ -3,10 +3,9 @@
         "dueDate": "마감일",
         "owner": "책임자",
         "procedure": "절차",
-        "procedures": "절차",
         "procedureVersion": "절차 버전",
-        "runs": "절차 실행",
-        "subject": "제목"
+        "procedures": "절차",
+        "runs": "절차 실행"
     },
     "panel": {
         "assignedPerson": "담당자"

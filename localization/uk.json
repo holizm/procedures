@@ -3,10 +3,9 @@
         "dueDate": "Термін виконання",
         "owner": "Відповідальна особа",
         "procedure": "Процедура",
-        "procedures": "Процедури",
         "procedureVersion": "Версія процедури",
-        "runs": "Виконання процедури",
-        "subject": "Тема"
+        "procedures": "Процедури",
+        "runs": "Виконання процедури"
     },
     "panel": {
         "assignedPerson": "Призначена особа"

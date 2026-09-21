@@ -3,10 +3,9 @@
         "dueDate": "નિયત તારીખ",
         "owner": "જવાબદાર વ્યક્તિ",
         "procedure": "કાર્યપદ્ધતિ",
-        "procedures": "કાર્યપદ્ધતિઓ",
         "procedureVersion": "કાર્યપદ્ધતિ આવૃત્તિ",
-        "runs": "કાર્યપદ્ધતિના અમલ",
-        "subject": "વિષય"
+        "procedures": "કાર્યપદ્ધતિઓ",
+        "runs": "કાર્યપદ્ધતિના અમલ"
     },
     "panel": {
         "assignedPerson": "સોંપાયેલ વ્યક્તિ"

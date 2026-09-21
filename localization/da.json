@@ -3,10 +3,9 @@
         "dueDate": "Forfaldsdato",
         "owner": "Ansvarlig",
         "procedure": "Procedure",
-        "procedures": "Procedurer",
         "procedureVersion": "Procedureversion",
-        "runs": "Procedurekørsler",
-        "subject": "Emne"
+        "procedures": "Procedurer",
+        "runs": "Procedurekørsler"
     },
     "panel": {
         "assignedPerson": "Tildelt person"

@@ -3,10 +3,9 @@
         "dueDate": "Краен срок",
         "owner": "Отговорник",
         "procedure": "Процедура",
-        "procedures": "Процедури",
         "procedureVersion": "Версия на процедурата",
-        "runs": "Изпълнения на процедурата",
-        "subject": "Тема"
+        "procedures": "Процедури",
+        "runs": "Изпълнения на процедурата"
     },
     "panel": {
         "assignedPerson": "Назначено лице"

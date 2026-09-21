@@ -3,10 +3,9 @@
         "dueDate": "Takdang petsa",
         "owner": "Tagapangasiwa",
         "procedure": "Pamamaraan",
-        "procedures": "Mga pamamaraan",
         "procedureVersion": "Bersyon ng pamamaraan",
-        "runs": "Mga pagpapatakbo ng pamamaraan",
-        "subject": "Paksa"
+        "procedures": "Mga pamamaraan",
+        "runs": "Mga pagpapatakbo ng pamamaraan"
     },
     "panel": {
         "assignedPerson": "Itinalagang tao"

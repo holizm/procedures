@@ -3,10 +3,9 @@
         "dueDate": "கடைசி தேதி",
         "owner": "பொறுப்பாளர்",
         "procedure": "செயல்முறை",
-        "procedures": "செயல்முறைகள்",
         "procedureVersion": "செயல்முறை பதிப்பு",
-        "runs": "செயல்முறை இயக்கங்கள்",
-        "subject": "பொருள்"
+        "procedures": "செயல்முறைகள்",
+        "runs": "செயல்முறை இயக்கங்கள்"
     },
     "panel": {
         "assignedPerson": "ஒதுக்கப்பட்ட நபர்"

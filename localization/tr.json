@@ -3,10 +3,9 @@
         "dueDate": "Son tarih",
         "owner": "Sorumlu",
         "procedure": "Prosedür",
-        "procedures": "Prosedürler",
         "procedureVersion": "Prosedür sürümü",
-        "runs": "Prosedür çalıştırmaları",
-        "subject": "Konu"
+        "procedures": "Prosedürler",
+        "runs": "Prosedür çalıştırmaları"
     },
     "panel": {
         "assignedPerson": "Atanan kişi"

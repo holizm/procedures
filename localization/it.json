@@ -3,10 +3,9 @@
         "dueDate": "Data di scadenza",
         "owner": "Responsabile",
         "procedure": "Procedura",
-        "procedures": "Procedure",
         "procedureVersion": "Versione della procedura",
-        "runs": "Esecuzioni della procedura",
-        "subject": "Oggetto"
+        "procedures": "Procedure",
+        "runs": "Esecuzioni della procedura"
     },
     "panel": {
         "assignedPerson": "Persona assegnata"
