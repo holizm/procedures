@@ -3,9 +3,21 @@
         "dueDate": "Määräpäivä",
         "owner": "Vastuuhenkilö",
         "procedure": "Menettely",
+        "procedureAssignment": "Menettely – Tehtävänanto",
+        "procedureAssignments": "Menettely – Tehtävänanto",
+        "procedureEvidence": "Menettely – Todiste",
+        "procedureEvidences": "Menettely – Todiste",
+        "procedureRun": "Menettelyn suoritukset",
+        "procedureRuns": "Menettelyn suoritukset",
+        "procedureSignOff": "Menettely – Hyväksyntä",
+        "procedureSignOffs": "Menettely – Hyväksyntä",
+        "procedureStep": "Menettely – Vaihe",
+        "procedureStepRun": "Menettelyn suoritukset – Vaihe",
+        "procedureStepRuns": "Menettelyn suoritukset – Vaiheet",
+        "procedureSteps": "Menettely – Vaiheet",
         "procedureVersion": "Menettelyn versio",
-        "procedures": "Menettelyt",
-        "runs": "Menettelyn suoritukset"
+        "procedureVersions": "Menettelyn versio",
+        "procedures": "Menettelyt"
     },
     "panel": {
         "assignedPerson": "Määritetty henkilö"

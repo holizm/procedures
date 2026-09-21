@@ -3,9 +3,21 @@
         "dueDate": "Ranar ƙarshe",
         "owner": "Mai alhaki",
         "procedure": "Tsarin aiki",
+        "procedureAssignment": "Tsarin aiki – Aiki",
+        "procedureAssignments": "Tsarin aiki – Aiki",
+        "procedureEvidence": "Tsarin aiki – Shaida",
+        "procedureEvidences": "Tsarin aiki – Shaida",
+        "procedureRun": "Gudanarwar tsarin aiki",
+        "procedureRuns": "Gudanarwar tsarin aiki",
+        "procedureSignOff": "Tsarin aiki – Amincewa",
+        "procedureSignOffs": "Tsarin aiki – Amincewa",
+        "procedureStep": "Tsarin aiki – Mataki",
+        "procedureStepRun": "Gudanarwar tsarin aiki – Mataki",
+        "procedureStepRuns": "Gudanarwar tsarin aiki – Matakai",
+        "procedureSteps": "Tsarin aiki – Matakai",
         "procedureVersion": "Sigar tsarin aiki",
-        "procedures": "Tsarukan aiki",
-        "runs": "Gudanarwar tsarin aiki"
+        "procedureVersions": "Sigar tsarin aiki",
+        "procedures": "Tsarukan aiki"
     },
     "panel": {
         "assignedPerson": "Mutumin da aka ɗora wa aiki"

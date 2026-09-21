@@ -3,9 +3,21 @@
         "dueDate": "مهلت انجام",
         "owner": "مالک فرایند",
         "procedure": "روش اجرایی",
+        "procedureAssignment": "روش اجرایی – تخصیص",
+        "procedureAssignments": "روش اجرایی – تخصیص",
+        "procedureEvidence": "روش اجرایی – مدرک",
+        "procedureEvidences": "روش اجرایی – مدرک",
+        "procedureRun": "اجراهای روش اجرایی",
+        "procedureRuns": "اجراهای روش اجرایی",
+        "procedureSignOff": "روش اجرایی – تأیید نهایی",
+        "procedureSignOffs": "روش اجرایی – تأیید نهایی",
+        "procedureStep": "روش اجرایی – مرحله",
+        "procedureStepRun": "اجراهای روش اجرایی – مرحله",
+        "procedureStepRuns": "اجراهای روش اجرایی – مراحل",
+        "procedureSteps": "روش اجرایی – مراحل",
         "procedureVersion": "نسخه روش اجرایی",
-        "procedures": "روش‌های اجرایی",
-        "runs": "اجراهای روش اجرایی"
+        "procedureVersions": "نسخه روش اجرایی",
+        "procedures": "روش‌های اجرایی"
     },
     "panel": {
         "assignedPerson": "مسئول اجرا"

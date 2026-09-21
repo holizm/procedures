@@ -3,9 +3,21 @@
         "dueDate": "கடைசி தேதி",
         "owner": "பொறுப்பாளர்",
         "procedure": "செயல்முறை",
+        "procedureAssignment": "செயல்முறை – ஒதுக்கீடு",
+        "procedureAssignments": "செயல்முறை – ஒதுக்கீடு",
+        "procedureEvidence": "செயல்முறை – சான்று",
+        "procedureEvidences": "செயல்முறை – சான்று",
+        "procedureRun": "செயல்முறை இயக்கங்கள்",
+        "procedureRuns": "செயல்முறை இயக்கங்கள்",
+        "procedureSignOff": "செயல்முறை – ஒப்புதல்",
+        "procedureSignOffs": "செயல்முறை – ஒப்புதல்",
+        "procedureStep": "செயல்முறை – படி",
+        "procedureStepRun": "செயல்முறை இயக்கங்கள் – படி",
+        "procedureStepRuns": "செயல்முறை இயக்கங்கள் – படிகள்",
+        "procedureSteps": "செயல்முறை – படிகள்",
         "procedureVersion": "செயல்முறை பதிப்பு",
-        "procedures": "செயல்முறைகள்",
-        "runs": "செயல்முறை இயக்கங்கள்"
+        "procedureVersions": "செயல்முறை பதிப்பு",
+        "procedures": "செயல்முறைகள்"
     },
     "panel": {
         "assignedPerson": "ஒதுக்கப்பட்ட நபர்"

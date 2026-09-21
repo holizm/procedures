@@ -3,9 +3,21 @@
         "dueDate": "Ọjọ́ ìparí",
         "owner": "Olùdájọ́ṣe",
         "procedure": "Ìlànà iṣẹ́",
+        "procedureAssignment": "Ìlànà iṣẹ́ – Ìfúnni",
+        "procedureAssignments": "Ìlànà iṣẹ́ – Ìfúnni",
+        "procedureEvidence": "Ìlànà iṣẹ́ – Ẹ̀rí",
+        "procedureEvidences": "Ìlànà iṣẹ́ – Ẹ̀rí",
+        "procedureRun": "Àwọn ìṣiṣẹ́ ìlànà",
+        "procedureRuns": "Àwọn ìṣiṣẹ́ ìlànà",
+        "procedureSignOff": "Ìlànà iṣẹ́ – Ìfọwọ́sí",
+        "procedureSignOffs": "Ìlànà iṣẹ́ – Ìfọwọ́sí",
+        "procedureStep": "Ìlànà iṣẹ́ – Ìgbésẹ̀",
+        "procedureStepRun": "Àwọn ìṣiṣẹ́ ìlànà – Ìgbésẹ̀",
+        "procedureStepRuns": "Àwọn ìṣiṣẹ́ ìlànà – Àwọn ìgbésẹ̀",
+        "procedureSteps": "Ìlànà iṣẹ́ – Àwọn ìgbésẹ̀",
         "procedureVersion": "Ẹ̀yà ìlànà iṣẹ́",
-        "procedures": "Àwọn ìlànà iṣẹ́",
-        "runs": "Àwọn ìṣiṣẹ́ ìlànà"
+        "procedureVersions": "Ẹ̀yà ìlànà iṣẹ́",
+        "procedures": "Àwọn ìlànà iṣẹ́"
     },
     "panel": {
         "assignedPerson": "Ẹni tí a yàn"

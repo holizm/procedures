@@ -3,9 +3,21 @@
         "dueDate": "Due date",
         "owner": "Owner",
         "procedure": "Procedure",
+        "procedureAssignment": "Procedure – Assignment",
+        "procedureAssignments": "Procedure – Assignment",
+        "procedureEvidence": "Procedure – Evidence",
+        "procedureEvidences": "Procedure – Evidence",
+        "procedureRun": "Procedure runs",
+        "procedureRuns": "Procedure runs",
+        "procedureSignOff": "Procedure – Sign-off",
+        "procedureSignOffs": "Procedure – Sign-off",
+        "procedureStep": "Procedure – Step",
+        "procedureStepRun": "Procedure runs – Step",
+        "procedureStepRuns": "Procedure runs – Steps",
+        "procedureSteps": "Procedure – Steps",
         "procedureVersion": "Procedure version",
-        "procedures": "Procedures",
-        "runs": "Procedure runs"
+        "procedureVersions": "Procedure version",
+        "procedures": "Procedures"
     },
     "panel": {
         "assignedPerson": "Assigned person"

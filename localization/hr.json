@@ -3,9 +3,21 @@
         "dueDate": "Rok izvršenja",
         "owner": "Odgovorna osoba",
         "procedure": "Postupak",
+        "procedureAssignment": "Postupak – Dodjela",
+        "procedureAssignments": "Postupak – Dodjela",
+        "procedureEvidence": "Postupak – Dokaz",
+        "procedureEvidences": "Postupak – Dokaz",
+        "procedureRun": "Izvršavanja postupka",
+        "procedureRuns": "Izvršavanja postupka",
+        "procedureSignOff": "Postupak – Odobrenje",
+        "procedureSignOffs": "Postupak – Odobrenje",
+        "procedureStep": "Postupak – Korak",
+        "procedureStepRun": "Izvršavanja postupka – Korak",
+        "procedureStepRuns": "Izvršavanja postupka – Koraci",
+        "procedureSteps": "Postupak – Koraci",
         "procedureVersion": "Verzija postupka",
-        "procedures": "Postupci",
-        "runs": "Izvršavanja postupka"
+        "procedureVersions": "Verzija postupka",
+        "procedures": "Postupci"
     },
     "panel": {
         "assignedPerson": "Dodijeljena osoba"

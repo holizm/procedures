@@ -3,9 +3,21 @@
         "dueDate": "Ημερομηνία λήξης",
         "owner": "Υπεύθυνος",
         "procedure": "Διαδικασία",
+        "procedureAssignment": "Διαδικασία – Ανάθεση",
+        "procedureAssignments": "Διαδικασία – Ανάθεση",
+        "procedureEvidence": "Διαδικασία – Απόδειξη",
+        "procedureEvidences": "Διαδικασία – Απόδειξη",
+        "procedureRun": "Εκτελέσεις διαδικασίας",
+        "procedureRuns": "Εκτελέσεις διαδικασίας",
+        "procedureSignOff": "Διαδικασία – Έγκριση",
+        "procedureSignOffs": "Διαδικασία – Έγκριση",
+        "procedureStep": "Διαδικασία – Βήμα",
+        "procedureStepRun": "Εκτελέσεις διαδικασίας – Βήμα",
+        "procedureStepRuns": "Εκτελέσεις διαδικασίας – Βήματα",
+        "procedureSteps": "Διαδικασία – Βήματα",
         "procedureVersion": "Έκδοση διαδικασίας",
-        "procedures": "Διαδικασίες",
-        "runs": "Εκτελέσεις διαδικασίας"
+        "procedureVersions": "Έκδοση διαδικασίας",
+        "procedures": "Διαδικασίες"
     },
     "panel": {
         "assignedPerson": "Ανατεθειμένο άτομο"

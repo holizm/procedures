@@ -3,9 +3,21 @@
         "dueDate": "नियत तारीख",
         "owner": "स्वामी",
         "procedure": "प्रक्रिया",
+        "procedureAssignment": "प्रक्रिया – असाइनमेंट",
+        "procedureAssignments": "प्रक्रिया – असाइनमेंट",
+        "procedureEvidence": "प्रक्रिया – साक्ष्य",
+        "procedureEvidences": "प्रक्रिया – साक्ष्य",
+        "procedureRun": "प्रक्रिया निष्पादन",
+        "procedureRuns": "प्रक्रिया निष्पादन",
+        "procedureSignOff": "प्रक्रिया – अनुमोदन",
+        "procedureSignOffs": "प्रक्रिया – अनुमोदन",
+        "procedureStep": "प्रक्रिया – चरण",
+        "procedureStepRun": "प्रक्रिया निष्पादन – चरण",
+        "procedureStepRuns": "प्रक्रिया निष्पादन – चरण",
+        "procedureSteps": "प्रक्रिया – चरण",
         "procedureVersion": "प्रक्रिया संस्करण",
-        "procedures": "प्रक्रियाएँ",
-        "runs": "प्रक्रिया निष्पादन"
+        "procedureVersions": "प्रक्रिया संस्करण",
+        "procedures": "प्रक्रियाएँ"
     },
     "panel": {
         "assignedPerson": "नियुक्त व्यक्ति"

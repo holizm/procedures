@@ -3,9 +3,21 @@
         "dueDate": "Термін виконання",
         "owner": "Відповідальна особа",
         "procedure": "Процедура",
+        "procedureAssignment": "Процедура – Призначення",
+        "procedureAssignments": "Процедура – Призначення",
+        "procedureEvidence": "Процедура – Доказ",
+        "procedureEvidences": "Процедура – Доказ",
+        "procedureRun": "Виконання процедури",
+        "procedureRuns": "Виконання процедури",
+        "procedureSignOff": "Процедура – Затвердження",
+        "procedureSignOffs": "Процедура – Затвердження",
+        "procedureStep": "Процедура – Етап",
+        "procedureStepRun": "Виконання процедури – Етап",
+        "procedureStepRuns": "Виконання процедури – Етапи",
+        "procedureSteps": "Процедура – Етапи",
         "procedureVersion": "Версія процедури",
-        "procedures": "Процедури",
-        "runs": "Виконання процедури"
+        "procedureVersions": "Версія процедури",
+        "procedures": "Процедури"
     },
     "panel": {
         "assignedPerson": "Призначена особа"

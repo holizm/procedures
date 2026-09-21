@@ -3,9 +3,21 @@
         "dueDate": "Краен срок",
         "owner": "Отговорник",
         "procedure": "Процедура",
+        "procedureAssignment": "Процедура – Назначение",
+        "procedureAssignments": "Процедура – Назначение",
+        "procedureEvidence": "Процедура – Доказателство",
+        "procedureEvidences": "Процедура – Доказателство",
+        "procedureRun": "Изпълнения на процедурата",
+        "procedureRuns": "Изпълнения на процедурата",
+        "procedureSignOff": "Процедура – Одобрение",
+        "procedureSignOffs": "Процедура – Одобрение",
+        "procedureStep": "Процедура – Стъпка",
+        "procedureStepRun": "Изпълнения на процедурата – Стъпка",
+        "procedureStepRuns": "Изпълнения на процедурата – Стъпки",
+        "procedureSteps": "Процедура – Стъпки",
         "procedureVersion": "Версия на процедурата",
-        "procedures": "Процедури",
-        "runs": "Изпълнения на процедурата"
+        "procedureVersions": "Версия на процедурата",
+        "procedures": "Процедури"
     },
     "panel": {
         "assignedPerson": "Назначено лице"

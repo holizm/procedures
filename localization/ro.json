@@ -3,9 +3,21 @@
         "dueDate": "Data scadentă",
         "owner": "Responsabil",
         "procedure": "Procedură",
+        "procedureAssignment": "Procedură – Atribuire",
+        "procedureAssignments": "Procedură – Atribuire",
+        "procedureEvidence": "Procedură – Dovadă",
+        "procedureEvidences": "Procedură – Dovadă",
+        "procedureRun": "Executări ale procedurii",
+        "procedureRuns": "Executări ale procedurii",
+        "procedureSignOff": "Procedură – Aprobare",
+        "procedureSignOffs": "Procedură – Aprobare",
+        "procedureStep": "Procedură – Pas",
+        "procedureStepRun": "Executări ale procedurii – Pas",
+        "procedureStepRuns": "Executări ale procedurii – Pași",
+        "procedureSteps": "Procedură – Pași",
         "procedureVersion": "Versiunea procedurii",
-        "procedures": "Proceduri",
-        "runs": "Executări ale procedurii"
+        "procedureVersions": "Versiunea procedurii",
+        "procedures": "Proceduri"
     },
     "panel": {
         "assignedPerson": "Persoană desemnată"

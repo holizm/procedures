@@ -3,9 +3,21 @@
         "dueDate": "تاريخ الاستحقاق",
         "owner": "المالك",
         "procedure": "إجراء",
+        "procedureAssignment": "إجراء – تعيين",
+        "procedureAssignments": "إجراء – تعيين",
+        "procedureEvidence": "إجراء – دليل",
+        "procedureEvidences": "إجراء – دليل",
+        "procedureRun": "عمليات تنفيذ الإجراء",
+        "procedureRuns": "عمليات تنفيذ الإجراء",
+        "procedureSignOff": "إجراء – اعتماد",
+        "procedureSignOffs": "إجراء – اعتماد",
+        "procedureStep": "إجراء – خطوة",
+        "procedureStepRun": "عمليات تنفيذ الإجراء – خطوة",
+        "procedureStepRuns": "عمليات تنفيذ الإجراء – خطوات",
+        "procedureSteps": "إجراء – خطوات",
         "procedureVersion": "إصدار الإجراء",
-        "procedures": "الإجراءات",
-        "runs": "عمليات تنفيذ الإجراء"
+        "procedureVersions": "إصدار الإجراء",
+        "procedures": "الإجراءات"
     },
     "panel": {
         "assignedPerson": "الشخص المكلّف"

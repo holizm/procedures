@@ -3,9 +3,21 @@
         "dueDate": "Termín dokončení",
         "owner": "Odpovědná osoba",
         "procedure": "Postup",
+        "procedureAssignment": "Postup – Přiřazení",
+        "procedureAssignments": "Postup – Přiřazení",
+        "procedureEvidence": "Postup – Důkaz",
+        "procedureEvidences": "Postup – Důkaz",
+        "procedureRun": "Spuštění postupu",
+        "procedureRuns": "Spuštění postupu",
+        "procedureSignOff": "Postup – Schválení",
+        "procedureSignOffs": "Postup – Schválení",
+        "procedureStep": "Postup – Krok",
+        "procedureStepRun": "Spuštění postupu – Krok",
+        "procedureStepRuns": "Spuštění postupu – Kroky",
+        "procedureSteps": "Postup – Kroky",
         "procedureVersion": "Verze postupu",
-        "procedures": "Postupy",
-        "runs": "Spuštění postupu"
+        "procedureVersions": "Verze postupu",
+        "procedures": "Postupy"
     },
     "panel": {
         "assignedPerson": "Přiřazená osoba"

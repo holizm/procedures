@@ -3,9 +3,21 @@
         "dueDate": "Ngày đến hạn",
         "owner": "Người phụ trách",
         "procedure": "Quy trình",
+        "procedureAssignment": "Quy trình – Phân công",
+        "procedureAssignments": "Quy trình – Phân công",
+        "procedureEvidence": "Quy trình – Bằng chứng",
+        "procedureEvidences": "Quy trình – Bằng chứng",
+        "procedureRun": "Lần thực hiện quy trình",
+        "procedureRuns": "Lần thực hiện quy trình",
+        "procedureSignOff": "Quy trình – Phê duyệt",
+        "procedureSignOffs": "Quy trình – Phê duyệt",
+        "procedureStep": "Quy trình – Bước",
+        "procedureStepRun": "Lần thực hiện quy trình – Bước",
+        "procedureStepRuns": "Lần thực hiện quy trình – Các bước",
+        "procedureSteps": "Quy trình – Các bước",
         "procedureVersion": "Phiên bản quy trình",
-        "procedures": "Quy trình",
-        "runs": "Lần thực hiện quy trình"
+        "procedureVersions": "Phiên bản quy trình",
+        "procedures": "Quy trình"
     },
     "panel": {
         "assignedPerson": "Người được phân công"

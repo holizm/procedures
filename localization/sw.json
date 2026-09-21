@@ -3,9 +3,21 @@
         "dueDate": "Tarehe ya mwisho",
         "owner": "Mhusika mkuu",
         "procedure": "Utaratibu",
+        "procedureAssignment": "Utaratibu – Ugawaji",
+        "procedureAssignments": "Utaratibu – Ugawaji",
+        "procedureEvidence": "Utaratibu – Ushahidi",
+        "procedureEvidences": "Utaratibu – Ushahidi",
+        "procedureRun": "Utekelezaji wa utaratibu",
+        "procedureRuns": "Utekelezaji wa utaratibu",
+        "procedureSignOff": "Utaratibu – Idhini",
+        "procedureSignOffs": "Utaratibu – Idhini",
+        "procedureStep": "Utaratibu – Hatua",
+        "procedureStepRun": "Utekelezaji wa utaratibu – Hatua",
+        "procedureStepRuns": "Utekelezaji wa utaratibu – Hatua",
+        "procedureSteps": "Utaratibu – Hatua",
         "procedureVersion": "Toleo la utaratibu",
-        "procedures": "Taratibu",
-        "runs": "Utekelezaji wa utaratibu"
+        "procedureVersions": "Toleo la utaratibu",
+        "procedures": "Taratibu"
     },
     "panel": {
         "assignedPerson": "Mtu aliyekabidhiwa"

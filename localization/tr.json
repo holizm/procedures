@@ -3,9 +3,21 @@
         "dueDate": "Son tarih",
         "owner": "Sorumlu",
         "procedure": "Prosedür",
+        "procedureAssignment": "Prosedür – Atama",
+        "procedureAssignments": "Prosedür – Atama",
+        "procedureEvidence": "Prosedür – Kanıt",
+        "procedureEvidences": "Prosedür – Kanıt",
+        "procedureRun": "Prosedür çalıştırmaları",
+        "procedureRuns": "Prosedür çalıştırmaları",
+        "procedureSignOff": "Prosedür – Onay",
+        "procedureSignOffs": "Prosedür – Onay",
+        "procedureStep": "Prosedür – Adım",
+        "procedureStepRun": "Prosedür çalıştırmaları – Adım",
+        "procedureStepRuns": "Prosedür çalıştırmaları – Adımlar",
+        "procedureSteps": "Prosedür – Adımlar",
         "procedureVersion": "Prosedür sürümü",
-        "procedures": "Prosedürler",
-        "runs": "Prosedür çalıştırmaları"
+        "procedureVersions": "Prosedür sürümü",
+        "procedures": "Prosedürler"
     },
     "panel": {
         "assignedPerson": "Atanan kişi"

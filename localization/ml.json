@@ -3,9 +3,21 @@
         "dueDate": "അവസാന തീയതി",
         "owner": "ഉത്തരവാദി",
         "procedure": "നടപടിക്രമം",
+        "procedureAssignment": "നടപടിക്രമം – നിയോഗം",
+        "procedureAssignments": "നടപടിക്രമം – നിയോഗം",
+        "procedureEvidence": "നടപടിക്രമം – തെളിവ്",
+        "procedureEvidences": "നടപടിക്രമം – തെളിവ്",
+        "procedureRun": "നടപടിക്രമ നിർവഹണങ്ങൾ",
+        "procedureRuns": "നടപടിക്രമ നിർവഹണങ്ങൾ",
+        "procedureSignOff": "നടപടിക്രമം – അംഗീകാരം",
+        "procedureSignOffs": "നടപടിക്രമം – അംഗീകാരം",
+        "procedureStep": "നടപടിക്രമം – ഘട്ടം",
+        "procedureStepRun": "നടപടിക്രമ നിർവഹണങ്ങൾ – ഘട്ടം",
+        "procedureStepRuns": "നടപടിക്രമ നിർവഹണങ്ങൾ – ഘട്ടങ്ങൾ",
+        "procedureSteps": "നടപടിക്രമം – ഘട്ടങ്ങൾ",
         "procedureVersion": "നടപടിക്രമ പതിപ്പ്",
-        "procedures": "നടപടിക്രമങ്ങൾ",
-        "runs": "നടപടിക്രമ നിർവഹണങ്ങൾ"
+        "procedureVersions": "നടപടിക്രമ പതിപ്പ്",
+        "procedures": "നടപടിക്രമങ്ങൾ"
     },
     "panel": {
         "assignedPerson": "ചുമതലപ്പെടുത്തിയ വ്യക്തി"

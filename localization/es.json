@@ -3,9 +3,21 @@
         "dueDate": "Fecha de vencimiento",
         "owner": "Responsable",
         "procedure": "Procedimiento",
+        "procedureAssignment": "Procedimiento – Asignación",
+        "procedureAssignments": "Procedimiento – Asignación",
+        "procedureEvidence": "Procedimiento – Evidencia",
+        "procedureEvidences": "Procedimiento – Evidencia",
+        "procedureRun": "Ejecuciones del procedimiento",
+        "procedureRuns": "Ejecuciones del procedimiento",
+        "procedureSignOff": "Procedimiento – Aprobación",
+        "procedureSignOffs": "Procedimiento – Aprobación",
+        "procedureStep": "Procedimiento – Paso",
+        "procedureStepRun": "Ejecuciones del procedimiento – Paso",
+        "procedureStepRuns": "Ejecuciones del procedimiento – Pasos",
+        "procedureSteps": "Procedimiento – Pasos",
         "procedureVersion": "Versión del procedimiento",
-        "procedures": "Procedimientos",
-        "runs": "Ejecuciones del procedimiento"
+        "procedureVersions": "Versión del procedimiento",
+        "procedures": "Procedimientos"
     },
     "panel": {
         "assignedPerson": "Persona asignada"

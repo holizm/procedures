@@ -3,9 +3,21 @@
         "dueDate": "Förfallodatum",
         "owner": "Ansvarig",
         "procedure": "Procedur",
+        "procedureAssignment": "Procedur – Tilldelning",
+        "procedureAssignments": "Procedur – Tilldelning",
+        "procedureEvidence": "Procedur – Bevis",
+        "procedureEvidences": "Procedur – Bevis",
+        "procedureRun": "Procedurkörningar",
+        "procedureRuns": "Procedurkörningar",
+        "procedureSignOff": "Procedur – Godkännande",
+        "procedureSignOffs": "Procedur – Godkännande",
+        "procedureStep": "Procedur – Steg",
+        "procedureStepRun": "Procedurkörningar – Steg",
+        "procedureStepRuns": "Procedurkörningar – Steg",
+        "procedureSteps": "Procedur – Steg",
         "procedureVersion": "Procedurversion",
-        "procedures": "Procedurer",
-        "runs": "Procedurkörningar"
+        "procedureVersions": "Procedurversion",
+        "procedures": "Procedurer"
     },
     "panel": {
         "assignedPerson": "Tilldelad person"

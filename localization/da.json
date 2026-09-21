@@ -3,9 +3,21 @@
         "dueDate": "Forfaldsdato",
         "owner": "Ansvarlig",
         "procedure": "Procedure",
+        "procedureAssignment": "Procedure – Tildeling",
+        "procedureAssignments": "Procedure – Tildeling",
+        "procedureEvidence": "Procedure – Dokumentation",
+        "procedureEvidences": "Procedure – Dokumentation",
+        "procedureRun": "Procedurekørsler",
+        "procedureRuns": "Procedurekørsler",
+        "procedureSignOff": "Procedure – Godkendelse",
+        "procedureSignOffs": "Procedure – Godkendelse",
+        "procedureStep": "Procedure – Trin",
+        "procedureStepRun": "Procedurekørsler – Trin",
+        "procedureStepRuns": "Procedurekørsler – Trin",
+        "procedureSteps": "Procedure – Trin",
         "procedureVersion": "Procedureversion",
-        "procedures": "Procedurer",
-        "runs": "Procedurekørsler"
+        "procedureVersions": "Procedureversion",
+        "procedures": "Procedurer"
     },
     "panel": {
         "assignedPerson": "Tildelt person"

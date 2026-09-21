@@ -3,9 +3,21 @@
         "dueDate": "期限",
         "owner": "責任者",
         "procedure": "手順",
+        "procedureAssignment": "手順 – 割り当て",
+        "procedureAssignments": "手順 – 割り当て",
+        "procedureEvidence": "手順 – 証拠",
+        "procedureEvidences": "手順 – 証拠",
+        "procedureRun": "手順の実行",
+        "procedureRuns": "手順の実行",
+        "procedureSignOff": "手順 – 承認",
+        "procedureSignOffs": "手順 – 承認",
+        "procedureStep": "手順 – ステップ",
+        "procedureStepRun": "手順の実行 – ステップ",
+        "procedureStepRuns": "手順の実行 – ステップ",
+        "procedureSteps": "手順 – ステップ",
         "procedureVersion": "手順のバージョン",
-        "procedures": "手順",
-        "runs": "手順の実行"
+        "procedureVersions": "手順のバージョン",
+        "procedures": "手順"
     },
     "panel": {
         "assignedPerson": "担当者"

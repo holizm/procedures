@@ -3,9 +3,21 @@
         "dueDate": "గడువు తేదీ",
         "owner": "బాధ్యుడు",
         "procedure": "విధానం",
+        "procedureAssignment": "విధానం – కేటాయింపు",
+        "procedureAssignments": "విధానం – కేటాయింపు",
+        "procedureEvidence": "విధానం – ఆధారం",
+        "procedureEvidences": "విధానం – ఆధారం",
+        "procedureRun": "విధానం అమలు రికార్డులు",
+        "procedureRuns": "విధానం అమలు రికార్డులు",
+        "procedureSignOff": "విధానం – ఆమోదం",
+        "procedureSignOffs": "విధానం – ఆమోదం",
+        "procedureStep": "విధానం – దశ",
+        "procedureStepRun": "విధానం అమలు రికార్డులు – దశ",
+        "procedureStepRuns": "విధానం అమలు రికార్డులు – దశలు",
+        "procedureSteps": "విధానం – దశలు",
         "procedureVersion": "విధానం సంస్కరణ",
-        "procedures": "విధానాలు",
-        "runs": "విధానం అమలు రికార్డులు"
+        "procedureVersions": "విధానం సంస్కరణ",
+        "procedures": "విధానాలు"
     },
     "panel": {
         "assignedPerson": "కేటాయించిన వ్యక్తి"

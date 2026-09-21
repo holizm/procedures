@@ -3,9 +3,21 @@
         "dueDate": "নির্ধারিত তারিখ",
         "owner": "মালিক",
         "procedure": "কার্যপ্রণালী",
+        "procedureAssignment": "কার্যপ্রণালী – দায়িত্ব",
+        "procedureAssignments": "কার্যপ্রণালী – দায়িত্ব",
+        "procedureEvidence": "কার্যপ্রণালী – প্রমাণ",
+        "procedureEvidences": "কার্যপ্রণালী – প্রমাণ",
+        "procedureRun": "কার্যপ্রণালী সম্পাদনসমূহ",
+        "procedureRuns": "কার্যপ্রণালী সম্পাদনসমূহ",
+        "procedureSignOff": "কার্যপ্রণালী – অনুমোদন",
+        "procedureSignOffs": "কার্যপ্রণালী – অনুমোদন",
+        "procedureStep": "কার্যপ্রণালী – ধাপ",
+        "procedureStepRun": "কার্যপ্রণালী সম্পাদনসমূহ – ধাপ",
+        "procedureStepRuns": "কার্যপ্রণালী সম্পাদনসমূহ – ধাপসমূহ",
+        "procedureSteps": "কার্যপ্রণালী – ধাপসমূহ",
         "procedureVersion": "কার্যপ্রণালীর সংস্করণ",
-        "procedures": "কার্যপ্রণালীসমূহ",
-        "runs": "কার্যপ্রণালী সম্পাদনসমূহ"
+        "procedureVersions": "কার্যপ্রণালীর সংস্করণ",
+        "procedures": "কার্যপ্রণালীসমূহ"
     },
     "panel": {
         "assignedPerson": "দায়িত্বপ্রাপ্ত ব্যক্তি"

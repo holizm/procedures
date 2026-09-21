@@ -3,9 +3,21 @@
         "dueDate": "תאריך יעד",
         "owner": "אחראי",
         "procedure": "נוהל",
+        "procedureAssignment": "נוהל – הקצאה",
+        "procedureAssignments": "נוהל – הקצאה",
+        "procedureEvidence": "נוהל – ראיה",
+        "procedureEvidences": "נוהל – ראיה",
+        "procedureRun": "הרצות הנוהל",
+        "procedureRuns": "הרצות הנוהל",
+        "procedureSignOff": "נוהל – אישור",
+        "procedureSignOffs": "נוהל – אישור",
+        "procedureStep": "נוהל – שלב",
+        "procedureStepRun": "הרצות הנוהל – שלב",
+        "procedureStepRuns": "הרצות הנוהל – שלבים",
+        "procedureSteps": "נוהל – שלבים",
         "procedureVersion": "גרסת הנוהל",
-        "procedures": "נהלים",
-        "runs": "הרצות הנוהל"
+        "procedureVersions": "גרסת הנוהל",
+        "procedures": "נהלים"
     },
     "panel": {
         "assignedPerson": "אדם שהוקצה"

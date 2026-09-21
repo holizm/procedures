@@ -3,9 +3,21 @@
         "dueDate": "Рок извршења",
         "owner": "Одговорна особа",
         "procedure": "Поступак",
+        "procedureAssignment": "Поступак – Додела",
+        "procedureAssignments": "Поступак – Додела",
+        "procedureEvidence": "Поступак – Доказ",
+        "procedureEvidences": "Поступак – Доказ",
+        "procedureRun": "Извршавања поступка",
+        "procedureRuns": "Извршавања поступка",
+        "procedureSignOff": "Поступак – Одобрење",
+        "procedureSignOffs": "Поступак – Одобрење",
+        "procedureStep": "Поступак – Корак",
+        "procedureStepRun": "Извршавања поступка – Корак",
+        "procedureStepRuns": "Извршавања поступка – Кораци",
+        "procedureSteps": "Поступак – Кораци",
         "procedureVersion": "Верзија поступка",
-        "procedures": "Поступци",
-        "runs": "Извршавања поступка"
+        "procedureVersions": "Верзија поступка",
+        "procedures": "Поступци"
     },
     "panel": {
         "assignedPerson": "Додељена особа"

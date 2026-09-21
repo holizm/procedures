@@ -3,9 +3,21 @@
         "dueDate": "Tarikh akhir",
         "owner": "Penanggungjawab",
         "procedure": "Prosedur",
+        "procedureAssignment": "Prosedur – Penugasan",
+        "procedureAssignments": "Prosedur – Penugasan",
+        "procedureEvidence": "Prosedur – Bukti",
+        "procedureEvidences": "Prosedur – Bukti",
+        "procedureRun": "Pelaksanaan prosedur",
+        "procedureRuns": "Pelaksanaan prosedur",
+        "procedureSignOff": "Prosedur – Kelulusan",
+        "procedureSignOffs": "Prosedur – Kelulusan",
+        "procedureStep": "Prosedur – Langkah",
+        "procedureStepRun": "Pelaksanaan prosedur – Langkah",
+        "procedureStepRuns": "Pelaksanaan prosedur – Langkah-langkah",
+        "procedureSteps": "Prosedur – Langkah-langkah",
         "procedureVersion": "Versi prosedur",
-        "procedures": "Prosedur",
-        "runs": "Pelaksanaan prosedur"
+        "procedureVersions": "Versi prosedur",
+        "procedures": "Prosedur"
     },
     "panel": {
         "assignedPerson": "Orang yang ditugaskan"

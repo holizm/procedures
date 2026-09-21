@@ -3,9 +3,21 @@
         "dueDate": "截止日期",
         "owner": "负责人",
         "procedure": "流程",
+        "procedureAssignment": "流程 – 分配",
+        "procedureAssignments": "流程 – 分配",
+        "procedureEvidence": "流程 – 证据",
+        "procedureEvidences": "流程 – 证据",
+        "procedureRun": "流程执行记录",
+        "procedureRuns": "流程执行记录",
+        "procedureSignOff": "流程 – 签核",
+        "procedureSignOffs": "流程 – 签核",
+        "procedureStep": "流程 – 步骤",
+        "procedureStepRun": "流程执行记录 – 步骤",
+        "procedureStepRuns": "流程执行记录 – 步骤",
+        "procedureSteps": "流程 – 步骤",
         "procedureVersion": "流程版本",
-        "procedures": "流程",
-        "runs": "流程执行记录"
+        "procedureVersions": "流程版本",
+        "procedures": "流程"
     },
     "panel": {
         "assignedPerson": "被指派人"

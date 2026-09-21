@@ -3,9 +3,21 @@
         "dueDate": "截止日期",
         "owner": "負責人",
         "procedure": "流程",
+        "procedureAssignment": "流程 – 指派",
+        "procedureAssignments": "流程 – 指派",
+        "procedureEvidence": "流程 – 證據",
+        "procedureEvidences": "流程 – 證據",
+        "procedureRun": "流程執行記錄",
+        "procedureRuns": "流程執行記錄",
+        "procedureSignOff": "流程 – 簽核",
+        "procedureSignOffs": "流程 – 簽核",
+        "procedureStep": "流程 – 步驟",
+        "procedureStepRun": "流程執行記錄 – 步驟",
+        "procedureStepRuns": "流程執行記錄 – 步驟",
+        "procedureSteps": "流程 – 步驟",
         "procedureVersion": "流程版本",
-        "procedures": "流程",
-        "runs": "流程執行記錄"
+        "procedureVersions": "流程版本",
+        "procedures": "流程"
     },
     "panel": {
         "assignedPerson": "獲指派人員"

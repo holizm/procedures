@@ -3,9 +3,21 @@
         "dueDate": "Határidő",
         "owner": "Felelős",
         "procedure": "Eljárás",
+        "procedureAssignment": "Eljárás – Hozzárendelés",
+        "procedureAssignments": "Eljárás – Hozzárendelés",
+        "procedureEvidence": "Eljárás – Bizonyíték",
+        "procedureEvidences": "Eljárás – Bizonyíték",
+        "procedureRun": "Eljárásfuttatások",
+        "procedureRuns": "Eljárásfuttatások",
+        "procedureSignOff": "Eljárás – Jóváhagyás",
+        "procedureSignOffs": "Eljárás – Jóváhagyás",
+        "procedureStep": "Eljárás – Lépés",
+        "procedureStepRun": "Eljárásfuttatások – Lépés",
+        "procedureStepRuns": "Eljárásfuttatások – Lépések",
+        "procedureSteps": "Eljárás – Lépések",
         "procedureVersion": "Eljárásverzió",
-        "procedures": "Eljárások",
-        "runs": "Eljárásfuttatások"
+        "procedureVersions": "Eljárásverzió",
+        "procedures": "Eljárások"
     },
     "panel": {
         "assignedPerson": "Hozzárendelt személy"

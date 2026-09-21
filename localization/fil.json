@@ -3,9 +3,21 @@
         "dueDate": "Takdang petsa",
         "owner": "Tagapangasiwa",
         "procedure": "Pamamaraan",
+        "procedureAssignment": "Pamamaraan – Pagtatalaga",
+        "procedureAssignments": "Pamamaraan – Pagtatalaga",
+        "procedureEvidence": "Pamamaraan – Ebidensya",
+        "procedureEvidences": "Pamamaraan – Ebidensya",
+        "procedureRun": "Mga pagpapatakbo ng pamamaraan",
+        "procedureRuns": "Mga pagpapatakbo ng pamamaraan",
+        "procedureSignOff": "Pamamaraan – Pag-apruba",
+        "procedureSignOffs": "Pamamaraan – Pag-apruba",
+        "procedureStep": "Pamamaraan – Hakbang",
+        "procedureStepRun": "Mga pagpapatakbo ng pamamaraan – Hakbang",
+        "procedureStepRuns": "Mga pagpapatakbo ng pamamaraan – Mga hakbang",
+        "procedureSteps": "Pamamaraan – Mga hakbang",
         "procedureVersion": "Bersyon ng pamamaraan",
-        "procedures": "Mga pamamaraan",
-        "runs": "Mga pagpapatakbo ng pamamaraan"
+        "procedureVersions": "Bersyon ng pamamaraan",
+        "procedures": "Mga pamamaraan"
     },
     "panel": {
         "assignedPerson": "Itinalagang tao"

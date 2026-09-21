@@ -3,9 +3,21 @@
         "dueDate": "የመጨረሻ ቀን",
         "owner": "ኃላፊ",
         "procedure": "የአሠራር ሂደት",
+        "procedureAssignment": "የአሠራር ሂደት – ምደባ",
+        "procedureAssignments": "የአሠራር ሂደት – ምደባ",
+        "procedureEvidence": "የአሠራር ሂደት – ማስረጃ",
+        "procedureEvidences": "የአሠራር ሂደት – ማስረጃ",
+        "procedureRun": "የአሠራር ሂደት ክንውኖች",
+        "procedureRuns": "የአሠራር ሂደት ክንውኖች",
+        "procedureSignOff": "የአሠራር ሂደት – ማጽደቅ",
+        "procedureSignOffs": "የአሠራር ሂደት – ማጽደቅ",
+        "procedureStep": "የአሠራር ሂደት – ደረጃ",
+        "procedureStepRun": "የአሠራር ሂደት ክንውኖች – ደረጃ",
+        "procedureStepRuns": "የአሠራር ሂደት ክንውኖች – ደረጃዎች",
+        "procedureSteps": "የአሠራር ሂደት – ደረጃዎች",
         "procedureVersion": "የአሠራር ሂደት ስሪት",
-        "procedures": "የአሠራር ሂደቶች",
-        "runs": "የአሠራር ሂደት ክንውኖች"
+        "procedureVersions": "የአሠራር ሂደት ስሪት",
+        "procedures": "የአሠራር ሂደቶች"
     },
     "panel": {
         "assignedPerson": "የተመደበ ሰው"

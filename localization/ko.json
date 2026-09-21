@@ -3,9 +3,21 @@
         "dueDate": "마감일",
         "owner": "책임자",
         "procedure": "절차",
+        "procedureAssignment": "절차 – 배정",
+        "procedureAssignments": "절차 – 배정",
+        "procedureEvidence": "절차 – 증거",
+        "procedureEvidences": "절차 – 증거",
+        "procedureRun": "절차 실행",
+        "procedureRuns": "절차 실행",
+        "procedureSignOff": "절차 – 승인",
+        "procedureSignOffs": "절차 – 승인",
+        "procedureStep": "절차 – 단계",
+        "procedureStepRun": "절차 실행 – 단계",
+        "procedureStepRuns": "절차 실행 – 단계",
+        "procedureSteps": "절차 – 단계",
         "procedureVersion": "절차 버전",
-        "procedures": "절차",
-        "runs": "절차 실행"
+        "procedureVersions": "절차 버전",
+        "procedures": "절차"
     },
     "panel": {
         "assignedPerson": "담당자"

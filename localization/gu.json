@@ -3,9 +3,21 @@
         "dueDate": "નિયત તારીખ",
         "owner": "જવાબદાર વ્યક્તિ",
         "procedure": "કાર્યપદ્ધતિ",
+        "procedureAssignment": "કાર્યપદ્ધતિ – સોંપણી",
+        "procedureAssignments": "કાર્યપદ્ધતિ – સોંપણી",
+        "procedureEvidence": "કાર્યપદ્ધતિ – પુરાવો",
+        "procedureEvidences": "કાર્યપદ્ધતિ – પુરાવો",
+        "procedureRun": "કાર્યપદ્ધતિના અમલ",
+        "procedureRuns": "કાર્યપદ્ધતિના અમલ",
+        "procedureSignOff": "કાર્યપદ્ધતિ – મંજૂરી",
+        "procedureSignOffs": "કાર્યપદ્ધતિ – મંજૂરી",
+        "procedureStep": "કાર્યપદ્ધતિ – પગલું",
+        "procedureStepRun": "કાર્યપદ્ધતિના અમલ – પગલું",
+        "procedureStepRuns": "કાર્યપદ્ધતિના અમલ – પગલાં",
+        "procedureSteps": "કાર્યપદ્ધતિ – પગલાં",
         "procedureVersion": "કાર્યપદ્ધતિ આવૃત્તિ",
-        "procedures": "કાર્યપદ્ધતિઓ",
-        "runs": "કાર્યપદ્ધતિના અમલ"
+        "procedureVersions": "કાર્યપદ્ધતિ આવૃત્તિ",
+        "procedures": "કાર્યપદ્ધતિઓ"
     },
     "panel": {
         "assignedPerson": "સોંપાયેલ વ્યક્તિ"

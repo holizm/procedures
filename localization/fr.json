@@ -3,9 +3,21 @@
         "dueDate": "Date d’échéance",
         "owner": "Responsable",
         "procedure": "Procédure",
+        "procedureAssignment": "Procédure – Affectation",
+        "procedureAssignments": "Procédure – Affectation",
+        "procedureEvidence": "Procédure – Preuve",
+        "procedureEvidences": "Procédure – Preuve",
+        "procedureRun": "Exécutions de la procédure",
+        "procedureRuns": "Exécutions de la procédure",
+        "procedureSignOff": "Procédure – Validation",
+        "procedureSignOffs": "Procédure – Validation",
+        "procedureStep": "Procédure – Étape",
+        "procedureStepRun": "Exécutions de la procédure – Étape",
+        "procedureStepRuns": "Exécutions de la procédure – Étapes",
+        "procedureSteps": "Procédure – Étapes",
         "procedureVersion": "Version de la procédure",
-        "procedures": "Procédures",
-        "runs": "Exécutions de la procédure"
+        "procedureVersions": "Version de la procédure",
+        "procedures": "Procédures"
     },
     "panel": {
         "assignedPerson": "Personne assignée"

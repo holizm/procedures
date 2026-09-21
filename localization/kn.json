@@ -3,9 +3,21 @@
         "dueDate": "ಗಡುವಿನ ದಿನಾಂಕ",
         "owner": "ಜವಾಬ್ದಾರರು",
         "procedure": "ಕಾರ್ಯವಿಧಾನ",
+        "procedureAssignment": "ಕಾರ್ಯವಿಧಾನ – ನಿಯೋಜನೆ",
+        "procedureAssignments": "ಕಾರ್ಯವಿಧಾನ – ನಿಯೋಜನೆ",
+        "procedureEvidence": "ಕಾರ್ಯವಿಧಾನ – ಸಾಕ್ಷ್ಯ",
+        "procedureEvidences": "ಕಾರ್ಯವಿಧಾನ – ಸಾಕ್ಷ್ಯ",
+        "procedureRun": "ಕಾರ್ಯವಿಧಾನದ ಚಾಲನೆಗಳು",
+        "procedureRuns": "ಕಾರ್ಯವಿಧಾನದ ಚಾಲನೆಗಳು",
+        "procedureSignOff": "ಕಾರ್ಯವಿಧಾನ – ಅನುಮೋದನೆ",
+        "procedureSignOffs": "ಕಾರ್ಯವಿಧಾನ – ಅನುಮೋದನೆ",
+        "procedureStep": "ಕಾರ್ಯವಿಧಾನ – ಹಂತ",
+        "procedureStepRun": "ಕಾರ್ಯವಿಧಾನದ ಚಾಲನೆಗಳು – ಹಂತ",
+        "procedureStepRuns": "ಕಾರ್ಯವಿಧಾನದ ಚಾಲನೆಗಳು – ಹಂತಗಳು",
+        "procedureSteps": "ಕಾರ್ಯವಿಧಾನ – ಹಂತಗಳು",
         "procedureVersion": "ಕಾರ್ಯವಿಧಾನದ ಆವೃತ್ತಿ",
-        "procedures": "ಕಾರ್ಯವಿಧಾನಗಳು",
-        "runs": "ಕಾರ್ಯವಿಧಾನದ ಚಾಲನೆಗಳು"
+        "procedureVersions": "ಕಾರ್ಯವಿಧಾನದ ಆವೃತ್ತಿ",
+        "procedures": "ಕಾರ್ಯವಿಧಾನಗಳು"
     },
     "panel": {
         "assignedPerson": "ನಿಯೋಜಿತ ವ್ಯಕ್ತಿ"

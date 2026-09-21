@@ -3,9 +3,21 @@
         "dueDate": "Vervaldatum",
         "owner": "Verantwoordelike",
         "procedure": "Prosedure",
+        "procedureAssignment": "Prosedure – Toewysing",
+        "procedureAssignments": "Prosedure – Toewysing",
+        "procedureEvidence": "Prosedure – Bewys",
+        "procedureEvidences": "Prosedure – Bewys",
+        "procedureRun": "Prosedure-uitvoerings",
+        "procedureRuns": "Prosedure-uitvoerings",
+        "procedureSignOff": "Prosedure – Goedkeuring",
+        "procedureSignOffs": "Prosedure – Goedkeuring",
+        "procedureStep": "Prosedure – Stap",
+        "procedureStepRun": "Prosedure-uitvoerings – Stap",
+        "procedureStepRuns": "Prosedure-uitvoerings – Stappe",
+        "procedureSteps": "Prosedure – Stappe",
         "procedureVersion": "Prosedureweergawe",
-        "procedures": "Prosedures",
-        "runs": "Prosedure-uitvoerings"
+        "procedureVersions": "Prosedureweergawe",
+        "procedures": "Prosedures"
     },
     "panel": {
         "assignedPerson": "Toegewysde persoon"

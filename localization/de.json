@@ -3,9 +3,21 @@
         "dueDate": "Fälligkeitsdatum",
         "owner": "Verantwortliche Person",
         "procedure": "Verfahren",
+        "procedureAssignment": "Verfahren – Zuweisung",
+        "procedureAssignments": "Verfahren – Zuweisung",
+        "procedureEvidence": "Verfahren – Nachweis",
+        "procedureEvidences": "Verfahren – Nachweis",
+        "procedureRun": "Verfahrensdurchläufe",
+        "procedureRuns": "Verfahrensdurchläufe",
+        "procedureSignOff": "Verfahren – Freigabe",
+        "procedureSignOffs": "Verfahren – Freigabe",
+        "procedureStep": "Verfahren – Schritt",
+        "procedureStepRun": "Verfahrensdurchläufe – Schritt",
+        "procedureStepRuns": "Verfahrensdurchläufe – Schritte",
+        "procedureSteps": "Verfahren – Schritte",
         "procedureVersion": "Verfahrensversion",
-        "procedures": "Verfahren",
-        "runs": "Verfahrensdurchläufe"
+        "procedureVersions": "Verfahrensversion",
+        "procedures": "Verfahren"
     },
     "panel": {
         "assignedPerson": "Zugewiesene Person"

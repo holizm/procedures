@@ -3,9 +3,21 @@
         "dueDate": "آخری تاریخ",
         "owner": "ذمہ دار",
         "procedure": "طریقۂ کار",
+        "procedureAssignment": "طریقۂ کار – تفویض",
+        "procedureAssignments": "طریقۂ کار – تفویض",
+        "procedureEvidence": "طریقۂ کار – ثبوت",
+        "procedureEvidences": "طریقۂ کار – ثبوت",
+        "procedureRun": "طریقۂ کار کے نفاذ",
+        "procedureRuns": "طریقۂ کار کے نفاذ",
+        "procedureSignOff": "طریقۂ کار – منظوری",
+        "procedureSignOffs": "طریقۂ کار – منظوری",
+        "procedureStep": "طریقۂ کار – مرحلہ",
+        "procedureStepRun": "طریقۂ کار کے نفاذ – مرحلہ",
+        "procedureStepRuns": "طریقۂ کار کے نفاذ – مراحل",
+        "procedureSteps": "طریقۂ کار – مراحل",
         "procedureVersion": "طریقۂ کار کا ورژن",
-        "procedures": "طریقۂ کار",
-        "runs": "طریقۂ کار کے نفاذ"
+        "procedureVersions": "طریقۂ کار کا ورژن",
+        "procedures": "طریقۂ کار"
     },
     "panel": {
         "assignedPerson": "مقرر کردہ شخص"

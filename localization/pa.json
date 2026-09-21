@@ -3,9 +3,21 @@
         "dueDate": "ਨਿਯਤ ਮਿਤੀ",
         "owner": "ਜ਼ਿੰਮੇਵਾਰ ਵਿਅਕਤੀ",
         "procedure": "ਕਾਰਜਵਿਧੀ",
+        "procedureAssignment": "ਕਾਰਜਵਿਧੀ – ਜ਼ਿੰਮੇਵਾਰੀ",
+        "procedureAssignments": "ਕਾਰਜਵਿਧੀ – ਜ਼ਿੰਮੇਵਾਰੀ",
+        "procedureEvidence": "ਕਾਰਜਵਿਧੀ – ਸਬੂਤ",
+        "procedureEvidences": "ਕਾਰਜਵਿਧੀ – ਸਬੂਤ",
+        "procedureRun": "ਕਾਰਜਵਿਧੀ ਦੀਆਂ ਕਾਰਵਾਈਆਂ",
+        "procedureRuns": "ਕਾਰਜਵਿਧੀ ਦੀਆਂ ਕਾਰਵਾਈਆਂ",
+        "procedureSignOff": "ਕਾਰਜਵਿਧੀ – ਮਨਜ਼ੂਰੀ",
+        "procedureSignOffs": "ਕਾਰਜਵਿਧੀ – ਮਨਜ਼ੂਰੀ",
+        "procedureStep": "ਕਾਰਜਵਿਧੀ – ਪੜਾਅ",
+        "procedureStepRun": "ਕਾਰਜਵਿਧੀ ਦੀਆਂ ਕਾਰਵਾਈਆਂ – ਪੜਾਅ",
+        "procedureStepRuns": "ਕਾਰਜਵਿਧੀ ਦੀਆਂ ਕਾਰਵਾਈਆਂ – ਪੜਾਅ",
+        "procedureSteps": "ਕਾਰਜਵਿਧੀ – ਪੜਾਅ",
         "procedureVersion": "ਕਾਰਜਵਿਧੀ ਦਾ ਵਰਜਨ",
-        "procedures": "ਕਾਰਜਵਿਧੀਆਂ",
-        "runs": "ਕਾਰਜਵਿਧੀ ਦੀਆਂ ਕਾਰਵਾਈਆਂ"
+        "procedureVersions": "ਕਾਰਜਵਿਧੀ ਦਾ ਵਰਜਨ",
+        "procedures": "ਕਾਰਜਵਿਧੀਆਂ"
     },
     "panel": {
         "assignedPerson": "ਨਿਯੁਕਤ ਵਿਅਕਤੀ"

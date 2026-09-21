@@ -3,9 +3,21 @@
         "dueDate": "Termin wykonania",
         "owner": "Osoba odpowiedzialna",
         "procedure": "Procedura",
+        "procedureAssignment": "Procedura – Przypisanie",
+        "procedureAssignments": "Procedura – Przypisanie",
+        "procedureEvidence": "Procedura – Dowód",
+        "procedureEvidences": "Procedura – Dowód",
+        "procedureRun": "Wykonania procedury",
+        "procedureRuns": "Wykonania procedury",
+        "procedureSignOff": "Procedura – Zatwierdzenie",
+        "procedureSignOffs": "Procedura – Zatwierdzenie",
+        "procedureStep": "Procedura – Krok",
+        "procedureStepRun": "Wykonania procedury – Krok",
+        "procedureStepRuns": "Wykonania procedury – Kroki",
+        "procedureSteps": "Procedura – Kroki",
         "procedureVersion": "Wersja procedury",
-        "procedures": "Procedury",
-        "runs": "Wykonania procedury"
+        "procedureVersions": "Wersja procedury",
+        "procedures": "Procedury"
     },
     "panel": {
         "assignedPerson": "Przypisana osoba"

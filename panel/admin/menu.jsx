@@ -7,7 +7,7 @@ export default [
             },
             {
                 path: '/procedures/procedureRun/list',
-                title: 'proceduresRuns',
+                title: 'proceduresProcedureRuns',
             },
         ],
         icon: 'checklist',

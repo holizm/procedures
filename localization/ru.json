@@ -3,9 +3,21 @@
         "dueDate": "Срок выполнения",
         "owner": "Ответственный",
         "procedure": "Процедура",
+        "procedureAssignment": "Процедура – Назначение",
+        "procedureAssignments": "Процедура – Назначение",
+        "procedureEvidence": "Процедура – Доказательство",
+        "procedureEvidences": "Процедура – Доказательство",
+        "procedureRun": "Выполнения процедуры",
+        "procedureRuns": "Выполнения процедуры",
+        "procedureSignOff": "Процедура – Утверждение",
+        "procedureSignOffs": "Процедура – Утверждение",
+        "procedureStep": "Процедура – Этап",
+        "procedureStepRun": "Выполнения процедуры – Этап",
+        "procedureStepRuns": "Выполнения процедуры – Этапы",
+        "procedureSteps": "Процедура – Этапы",
         "procedureVersion": "Версия процедуры",
-        "procedures": "Процедуры",
-        "runs": "Выполнения процедуры"
+        "procedureVersions": "Версия процедуры",
+        "procedures": "Процедуры"
     },
     "panel": {
         "assignedPerson": "Назначенный сотрудник"
