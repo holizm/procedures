@@ -7,26 +7,13 @@ import {
 
 const inputs = <>
     <Text
-        placeholder='procedureVersion'
-        property='procedureVersion'
+        procedureVersion
         required
     />
-    <Text
-        placeholder='assignedPerson'
-        property='assignedPerson'
-    />
-    <Text
-        placeholder='subject'
-        property='subject'
-    />
-    <DateTime
-        placeholder='dueDate'
-        property='dueDate'
-    />
-    <LongText
-        placeholder='description'
-        property='description'
-    />
+    <Text assignedPerson />
+    <Text subject />
+    <DateTime dueDate />
+    <LongText description />
 </>
 
 export default <DialogForm inputs={inputs} />
