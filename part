@@ -37,6 +37,8 @@ procedureRun
     completedDate optional
     state
     description optional
+    uses
+        stateMachines
 procedureStepRun
     procedureRun
     procedureStep

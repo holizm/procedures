@@ -7,24 +7,24 @@ import {
 
 const inputs = <>
     <Text
-        placeholder='proceduresProcedureVersion'
+        placeholder='procedureVersion'
         property='procedureVersion'
         required
     />
     <Text
-        placeholder='proceduresAssignedPerson'
+        placeholder='assignedPerson'
         property='assignedPerson'
     />
     <Text
-        placeholder='coreSubject'
+        placeholder='subject'
         property='subject'
     />
     <DateTime
-        placeholder='proceduresDueDate'
+        placeholder='dueDate'
         property='dueDate'
     />
     <LongText
-        placeholder='coreDescription'
+        placeholder='description'
         property='description'
     />
 </>

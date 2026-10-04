@@ -9,24 +9,24 @@ import {
 const inputs = <>
     <Title />
     <Text
-        placeholder='proceduresCode'
+        placeholder='code'
         property='code'
         required
     />
     <Text
-        placeholder='proceduresOwner'
+        placeholder='owner'
         property='owner'
     />
     <Text
-        placeholder='proceduresScope'
+        placeholder='scope'
         property='scope'
     />
     <Boolean
-        placeholder='proceduresActive'
+        placeholder='active'
         property='active'
     />
     <LongText
-        placeholder='coreDescription'
+        placeholder='description'
         property='description'
     />
 </>

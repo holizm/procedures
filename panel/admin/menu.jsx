@@ -3,15 +3,15 @@ export default [
         children: [
             {
                 path: '/procedures/procedure/list',
-                title: 'proceduresProcedures',
+                title: 'procedures',
             },
             {
                 path: '/procedures/procedureRun/list',
-                title: 'proceduresProcedureRuns',
+                title: 'procedureRuns',
             },
         ],
         icon: 'checklist',
         path: '/procedures',
-        title: 'proceduresProcedures',
+        title: 'procedures',
     },
 ]
