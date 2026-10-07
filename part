@@ -6,7 +6,7 @@ procedure
     active yesNo optional
     description optional
     unique code
-procedureVersion
+procedureVersion searchable
     procedure
     versionNumber integer
     effectiveDate
