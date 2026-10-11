@@ -1,5 +1,6 @@
 {
     "common": {
+        "assignedPerson": "కేటాయించిన వ్యక్తి",
         "dueDate": "గడువు తేదీ",
         "owner": "బాధ్యుడు",
         "procedure": "విధానం",
@@ -18,8 +19,5 @@
         "procedureVersion": "విధానం సంస్కరణ",
         "procedureVersions": "విధాన సంస్కరణలు",
         "procedures": "విధానాలు"
-    },
-    "panel": {
-        "assignedPerson": "కేటాయించిన వ్యక్తి"
     }
 }

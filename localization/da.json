@@ -1,5 +1,6 @@
 {
     "common": {
+        "assignedPerson": "Tildelt person",
         "dueDate": "Forfaldsdato",
         "owner": "Ansvarlig",
         "procedure": "Procedure",
@@ -18,8 +19,5 @@
         "procedureVersion": "Procedureversion",
         "procedureVersions": "Procedureversioner",
         "procedures": "Procedurer"
-    },
-    "panel": {
-        "assignedPerson": "Tildelt person"
     }
 }

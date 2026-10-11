@@ -1,5 +1,6 @@
 {
     "common": {
+        "assignedPerson": "Ανατεθειμένο άτομο",
         "dueDate": "Ημερομηνία λήξης",
         "owner": "Υπεύθυνος",
         "procedure": "Διαδικασία",
@@ -18,8 +19,5 @@
         "procedureVersion": "Έκδοση διαδικασίας",
         "procedureVersions": "Εκδόσεις διαδικασίας",
         "procedures": "Διαδικασίες"
-    },
-    "panel": {
-        "assignedPerson": "Ανατεθειμένο άτομο"
     }
 }

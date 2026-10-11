@@ -1,5 +1,6 @@
 {
     "common": {
+        "assignedPerson": "مسئول اجرا",
         "dueDate": "مهلت انجام",
         "owner": "مالک فرایند",
         "procedure": "روش اجرایی",
@@ -18,8 +19,5 @@
         "procedureVersion": "نسخه روش اجرایی",
         "procedureVersions": "نسخه‌های روش اجرایی",
         "procedures": "روش‌های اجرایی"
-    },
-    "panel": {
-        "assignedPerson": "مسئول اجرا"
     }
 }

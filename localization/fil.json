@@ -1,5 +1,6 @@
 {
     "common": {
+        "assignedPerson": "Itinalagang tao",
         "dueDate": "Takdang petsa",
         "owner": "Tagapangasiwa",
         "procedure": "Pamamaraan",
@@ -18,8 +19,5 @@
         "procedureVersion": "Bersyon ng pamamaraan",
         "procedureVersions": "Mga bersyon ng pamamaraan",
         "procedures": "Mga pamamaraan"
-    },
-    "panel": {
-        "assignedPerson": "Itinalagang tao"
     }
 }

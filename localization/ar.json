@@ -1,5 +1,6 @@
 {
     "common": {
+        "assignedPerson": "الشخص المكلّف",
         "dueDate": "تاريخ الاستحقاق",
         "owner": "المالك",
         "procedure": "إجراء",
@@ -18,8 +19,5 @@
         "procedureVersion": "إصدار الإجراء",
         "procedureVersions": "إصدارات الإجراءات",
         "procedures": "الإجراءات"
-    },
-    "panel": {
-        "assignedPerson": "الشخص المكلّف"
     }
 }

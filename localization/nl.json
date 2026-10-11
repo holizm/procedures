@@ -1,5 +1,6 @@
 {
     "common": {
+        "assignedPerson": "Toegewezen persoon",
         "dueDate": "Vervaldatum",
         "owner": "Verantwoordelijke",
         "procedure": "Procedure",
@@ -18,8 +19,5 @@
         "procedureVersion": "Procedureversie",
         "procedureVersions": "Procedureversies",
         "procedures": "Procedures"
-    },
-    "panel": {
-        "assignedPerson": "Toegewezen persoon"
     }
 }

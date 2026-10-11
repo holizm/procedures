@@ -1,5 +1,6 @@
 {
     "common": {
+        "assignedPerson": "אדם שהוקצה",
         "dueDate": "תאריך יעד",
         "owner": "אחראי",
         "procedure": "נוהל",
@@ -18,8 +19,5 @@
         "procedureVersion": "גרסת הנוהל",
         "procedureVersions": "גרסאות נוהל",
         "procedures": "נהלים"
-    },
-    "panel": {
-        "assignedPerson": "אדם שהוקצה"
     }
 }

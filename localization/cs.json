@@ -1,5 +1,6 @@
 {
     "common": {
+        "assignedPerson": "Přiřazená osoba",
         "dueDate": "Termín dokončení",
         "owner": "Odpovědná osoba",
         "procedure": "Postup",
@@ -18,8 +19,5 @@
         "procedureVersion": "Verze postupu",
         "procedureVersions": "Verze procedur",
         "procedures": "Postupy"
-    },
-    "panel": {
-        "assignedPerson": "Přiřazená osoba"
     }
 }

@@ -1,5 +1,6 @@
 {
     "common": {
+        "assignedPerson": "担当者",
         "dueDate": "期限",
         "owner": "責任者",
         "procedure": "手順",
@@ -18,8 +19,5 @@
         "procedureVersion": "手順のバージョン",
         "procedureVersions": "手順のバージョン",
         "procedures": "手順"
-    },
-    "panel": {
-        "assignedPerson": "担当者"
     }
 }

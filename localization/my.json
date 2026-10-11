@@ -1,5 +1,6 @@
 {
     "common": {
+        "assignedPerson": "တာဝန်ပေးထားသူ",
         "dueDate": "နောက်ဆုံးရက်",
         "owner": "တာဝန်ခံ",
         "procedure": "လုပ်ထုံးလုပ်နည်း",
@@ -18,8 +19,5 @@
         "procedureVersion": "လုပ်ထုံးလုပ်နည်းဗားရှင်း",
         "procedureVersions": "လုပ်ထုံးလုပ်နည်းဗားရှင်းများ",
         "procedures": "လုပ်ထုံးလုပ်နည်းများ"
-    },
-    "panel": {
-        "assignedPerson": "တာဝန်ပေးထားသူ"
     }
 }

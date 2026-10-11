@@ -1,5 +1,6 @@
 {
     "common": {
+        "assignedPerson": "獲指派人員",
         "dueDate": "截止日期",
         "owner": "負責人",
         "procedure": "流程",
@@ -18,8 +19,5 @@
         "procedureVersion": "流程版本",
         "procedureVersions": "流程版本",
         "procedures": "流程"
-    },
-    "panel": {
-        "assignedPerson": "獲指派人員"
     }
 }

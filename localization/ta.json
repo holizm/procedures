@@ -1,5 +1,6 @@
 {
     "common": {
+        "assignedPerson": "ஒதுக்கப்பட்ட நபர்",
         "dueDate": "கடைசி தேதி",
         "owner": "பொறுப்பாளர்",
         "procedure": "செயல்முறை",
@@ -18,8 +19,5 @@
         "procedureVersion": "செயல்முறை பதிப்பு",
         "procedureVersions": "செயல்முறை பதிப்புகள்",
         "procedures": "செயல்முறைகள்"
-    },
-    "panel": {
-        "assignedPerson": "ஒதுக்கப்பட்ட நபர்"
     }
 }

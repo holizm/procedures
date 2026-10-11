@@ -1,5 +1,6 @@
 {
     "common": {
+        "assignedPerson": "Atanan kişi",
         "dueDate": "Son tarih",
         "owner": "Sorumlu",
         "procedure": "Prosedür",
@@ -18,8 +19,5 @@
         "procedureVersion": "Prosedür sürümü",
         "procedureVersions": "Prosedür versiyonları",
         "procedures": "Prosedürler"
-    },
-    "panel": {
-        "assignedPerson": "Atanan kişi"
     }
 }

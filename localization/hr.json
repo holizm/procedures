@@ -1,5 +1,6 @@
 {
     "common": {
+        "assignedPerson": "Dodijeljena osoba",
         "dueDate": "Rok izvršenja",
         "owner": "Odgovorna osoba",
         "procedure": "Postupak",
@@ -18,8 +19,5 @@
         "procedureVersion": "Verzija postupka",
         "procedureVersions": "Inačice postupka",
         "procedures": "Postupci"
-    },
-    "panel": {
-        "assignedPerson": "Dodijeljena osoba"
     }
 }

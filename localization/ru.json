@@ -1,5 +1,6 @@
 {
     "common": {
+        "assignedPerson": "Назначенный сотрудник",
         "dueDate": "Срок выполнения",
         "owner": "Ответственный",
         "procedure": "Процедура",
@@ -18,8 +19,5 @@
         "procedureVersion": "Версия процедуры",
         "procedureVersions": "Версии процедуры",
         "procedures": "Процедуры"
-    },
-    "panel": {
-        "assignedPerson": "Назначенный сотрудник"
     }
 }

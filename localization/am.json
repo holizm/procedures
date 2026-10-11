@@ -1,5 +1,6 @@
 {
     "common": {
+        "assignedPerson": "የተመደበ ሰው",
         "dueDate": "የመጨረሻ ቀን",
         "owner": "ኃላፊ",
         "procedure": "የአሠራር ሂደት",
@@ -18,8 +19,5 @@
         "procedureVersion": "የአሠራር ሂደት ስሪት",
         "procedureVersions": "የአሰራር ስሪቶች",
         "procedures": "የአሠራር ሂደቶች"
-    },
-    "panel": {
-        "assignedPerson": "የተመደበ ሰው"
     }
 }

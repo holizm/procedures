@@ -1,5 +1,6 @@
 {
     "common": {
+        "assignedPerson": "ผู้ที่ได้รับมอบหมาย",
         "dueDate": "วันครบกำหนด",
         "owner": "ผู้รับผิดชอบ",
         "procedure": "ขั้นตอนการปฏิบัติงาน",
@@ -18,8 +19,5 @@
         "procedureVersion": "เวอร์ชันขั้นตอนการปฏิบัติงาน",
         "procedureVersions": "เวอร์ชันขั้นตอน",
         "procedures": "ขั้นตอนการปฏิบัติงาน"
-    },
-    "panel": {
-        "assignedPerson": "ผู้ที่ได้รับมอบหมาย"
     }
 }

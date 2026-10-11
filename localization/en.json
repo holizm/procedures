@@ -1,5 +1,6 @@
 {
     "common": {
+        "assignedPerson": "Assigned person",
         "dueDate": "Due date",
         "owner": "Owner",
         "procedure": "Procedure",
@@ -18,8 +19,5 @@
         "procedureVersion": "Procedure version",
         "procedureVersions": "Procedure versions",
         "procedures": "Procedures"
-    },
-    "panel": {
-        "assignedPerson": "Assigned person"
     }
 }

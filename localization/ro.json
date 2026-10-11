@@ -1,5 +1,6 @@
 {
     "common": {
+        "assignedPerson": "Persoană desemnată",
         "dueDate": "Data scadentă",
         "owner": "Responsabil",
         "procedure": "Procedură",
@@ -18,8 +19,5 @@
         "procedureVersion": "Versiunea procedurii",
         "procedureVersions": "Versiuni de procedură",
         "procedures": "Proceduri"
-    },
-    "panel": {
-        "assignedPerson": "Persoană desemnată"
     }
 }

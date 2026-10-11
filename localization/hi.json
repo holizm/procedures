@@ -1,5 +1,6 @@
 {
     "common": {
+        "assignedPerson": "नियुक्त व्यक्ति",
         "dueDate": "नियत तारीख",
         "owner": "स्वामी",
         "procedure": "प्रक्रिया",
@@ -18,8 +19,5 @@
         "procedureVersion": "प्रक्रिया संस्करण",
         "procedureVersions": "प्रक्रिया संस्करण",
         "procedures": "प्रक्रियाएँ"
-    },
-    "panel": {
-        "assignedPerson": "नियुक्त व्यक्ति"
     }
 }

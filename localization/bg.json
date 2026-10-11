@@ -1,5 +1,6 @@
 {
     "common": {
+        "assignedPerson": "Назначено лице",
         "dueDate": "Краен срок",
         "owner": "Отговорник",
         "procedure": "Процедура",
@@ -18,8 +19,5 @@
         "procedureVersion": "Версия на процедурата",
         "procedureVersions": "Версии на процедурата",
         "procedures": "Процедури"
-    },
-    "panel": {
-        "assignedPerson": "Назначено лице"
     }
 }

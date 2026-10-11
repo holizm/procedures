@@ -1,5 +1,6 @@
 {
     "common": {
+        "assignedPerson": "Người được phân công",
         "dueDate": "Ngày đến hạn",
         "owner": "Người phụ trách",
         "procedure": "Quy trình",
@@ -18,8 +19,5 @@
         "procedureVersion": "Phiên bản quy trình",
         "procedureVersions": "Phiên bản thủ tục",
         "procedures": "Quy trình"
-    },
-    "panel": {
-        "assignedPerson": "Người được phân công"
     }
 }

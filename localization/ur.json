@@ -1,5 +1,6 @@
 {
     "common": {
+        "assignedPerson": "مقرر کردہ شخص",
         "dueDate": "آخری تاریخ",
         "owner": "ذمہ دار",
         "procedure": "طریقۂ کار",
@@ -18,8 +19,5 @@
         "procedureVersion": "طریقۂ کار کا ورژن",
         "procedureVersions": "طریقہ کار کے ورژن",
         "procedures": "طریقۂ کار"
-    },
-    "panel": {
-        "assignedPerson": "مقرر کردہ شخص"
     }
 }

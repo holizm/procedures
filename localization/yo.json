@@ -1,5 +1,6 @@
 {
     "common": {
+        "assignedPerson": "Ẹni tí a yàn",
         "dueDate": "Ọjọ́ ìparí",
         "owner": "Olùdájọ́ṣe",
         "procedure": "Ìlànà iṣẹ́",
@@ -18,8 +19,5 @@
         "procedureVersion": "Ẹ̀yà ìlànà iṣẹ́",
         "procedureVersions": "Awọn ẹya ilana",
         "procedures": "Àwọn ìlànà iṣẹ́"
-    },
-    "panel": {
-        "assignedPerson": "Ẹni tí a yàn"
     }
 }

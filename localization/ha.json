@@ -1,5 +1,6 @@
 {
     "common": {
+        "assignedPerson": "Mutumin da aka ɗora wa aiki",
         "dueDate": "Ranar ƙarshe",
         "owner": "Mai alhaki",
         "procedure": "Tsarin aiki",
@@ -18,8 +19,5 @@
         "procedureVersion": "Sigar tsarin aiki",
         "procedureVersions": "Sigar tsari",
         "procedures": "Tsarukan aiki"
-    },
-    "panel": {
-        "assignedPerson": "Mutumin da aka ɗora wa aiki"
     }
 }

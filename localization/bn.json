@@ -1,5 +1,6 @@
 {
     "common": {
+        "assignedPerson": "দায়িত্বপ্রাপ্ত ব্যক্তি",
         "dueDate": "নির্ধারিত তারিখ",
         "owner": "মালিক",
         "procedure": "কার্যপ্রণালী",
@@ -18,8 +19,5 @@
         "procedureVersion": "কার্যপ্রণালীর সংস্করণ",
         "procedureVersions": "কার্যপ্রণালীর সংস্করণসমূহ",
         "procedures": "কার্যপ্রণালীসমূহ"
-    },
-    "panel": {
-        "assignedPerson": "দায়িত্বপ্রাপ্ত ব্যক্তি"
     }
 }

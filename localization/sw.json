@@ -1,5 +1,6 @@
 {
     "common": {
+        "assignedPerson": "Mtu aliyekabidhiwa",
         "dueDate": "Tarehe ya mwisho",
         "owner": "Mhusika mkuu",
         "procedure": "Utaratibu",
@@ -18,8 +19,5 @@
         "procedureVersion": "Toleo la utaratibu",
         "procedureVersions": "Matoleo ya utaratibu",
         "procedures": "Taratibu"
-    },
-    "panel": {
-        "assignedPerson": "Mtu aliyekabidhiwa"
     }
 }
