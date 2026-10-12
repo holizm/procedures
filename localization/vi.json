@@ -1,7 +1,5 @@
 {
     "common": {
-        "assignedPerson": "Người được phân công",
-        "dueDate": "Ngày đến hạn",
         "owner": "Người phụ trách",
         "procedure": "Quy trình",
         "procedureAssignment": "Quy trình – Phân công",

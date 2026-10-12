@@ -1,6 +1,5 @@
 {
     "common": {
-        "assignedPerson": "Määritetty henkilö",
         "dueDate": "Määräpäivä",
         "owner": "Vastuuhenkilö",
         "procedure": "Menettely",

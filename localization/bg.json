@@ -1,6 +1,5 @@
 {
     "common": {
-        "assignedPerson": "Назначено лице",
         "dueDate": "Краен срок",
         "owner": "Отговорник",
         "procedure": "Процедура",

@@ -1,7 +1,5 @@
 {
     "common": {
-        "assignedPerson": "नियुक्त व्यक्ती",
-        "dueDate": "देय तारीख",
         "owner": "जबाबदार व्यक्ती",
         "procedure": "कार्यपद्धती",
         "procedureAssignment": "कार्यपद्धती – नेमणूक",

@@ -1,6 +1,5 @@
 {
     "common": {
-        "assignedPerson": "담당자",
         "dueDate": "마감일",
         "owner": "책임자",
         "procedure": "절차",

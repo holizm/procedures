@@ -1,7 +1,5 @@
 {
     "common": {
-        "assignedPerson": "नियुक्त व्यक्ति",
-        "dueDate": "नियत तारीख",
         "owner": "स्वामी",
         "procedure": "प्रक्रिया",
         "procedureAssignment": "प्रक्रिया – असाइनमेंट",

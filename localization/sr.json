@@ -1,6 +1,5 @@
 {
     "common": {
-        "assignedPerson": "Додељена особа",
         "dueDate": "Рок извршења",
         "owner": "Одговорна особа",
         "procedure": "Поступак",

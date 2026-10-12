@@ -1,7 +1,5 @@
 {
     "common": {
-        "assignedPerson": "Ανατεθειμένο άτομο",
-        "dueDate": "Ημερομηνία λήξης",
         "owner": "Υπεύθυνος",
         "procedure": "Διαδικασία",
         "procedureAssignment": "Διαδικασία – Ανάθεση",

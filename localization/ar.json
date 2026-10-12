@@ -1,7 +1,5 @@
 {
     "common": {
-        "assignedPerson": "الشخص المكلّف",
-        "dueDate": "تاريخ الاستحقاق",
         "owner": "المالك",
         "procedure": "إجراء",
         "procedureAssignment": "إجراء – تعيين",

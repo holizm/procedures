@@ -1,6 +1,5 @@
 {
     "common": {
-        "assignedPerson": "被指派人",
         "dueDate": "截止日期",
         "owner": "负责人",
         "procedure": "流程",

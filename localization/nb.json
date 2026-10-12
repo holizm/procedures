@@ -1,7 +1,5 @@
 {
     "common": {
-        "assignedPerson": "Tildelt person",
-        "dueDate": "Forfallsdato",
         "owner": "Ansvarlig",
         "procedure": "Prosedyre",
         "procedureAssignment": "Prosedyre – Tildeling",

@@ -1,7 +1,5 @@
 {
     "common": {
-        "assignedPerson": "Pessoa atribuída",
-        "dueDate": "Data de vencimento",
         "owner": "Responsável",
         "procedure": "Procedimento",
         "procedureAssignment": "Procedimento – Atribuição",

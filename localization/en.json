@@ -1,7 +1,5 @@
 {
     "common": {
-        "assignedPerson": "Assigned person",
-        "dueDate": "Due date",
         "owner": "Owner",
         "procedure": "Procedure",
         "procedureAssignment": "Procedure assignment",

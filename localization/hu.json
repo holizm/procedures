@@ -1,6 +1,5 @@
 {
     "common": {
-        "assignedPerson": "Hozzárendelt személy",
         "dueDate": "Határidő",
         "owner": "Felelős",
         "procedure": "Eljárás",

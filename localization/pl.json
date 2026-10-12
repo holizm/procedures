@@ -1,6 +1,5 @@
 {
     "common": {
-        "assignedPerson": "Przypisana osoba",
         "dueDate": "Termin wykonania",
         "owner": "Osoba odpowiedzialna",
         "procedure": "Procedura",

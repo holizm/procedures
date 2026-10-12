@@ -1,7 +1,5 @@
 {
     "common": {
-        "assignedPerson": "Tilldelad person",
-        "dueDate": "Förfallodatum",
         "owner": "Ansvarig",
         "procedure": "Procedur",
         "procedureAssignment": "Procedur – Tilldelning",

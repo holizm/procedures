@@ -1,7 +1,5 @@
 {
     "common": {
-        "assignedPerson": "Toegewysde persoon",
-        "dueDate": "Vervaldatum",
         "owner": "Verantwoordelike",
         "procedure": "Prosedure",
         "procedureAssignment": "Prosedure – Toewysing",

@@ -1,7 +1,5 @@
 {
     "common": {
-        "assignedPerson": "Zugewiesene Person",
-        "dueDate": "Fälligkeitsdatum",
         "owner": "Verantwortliche Person",
         "procedure": "Verfahren",
         "procedureAssignment": "Verfahren – Zuweisung",
